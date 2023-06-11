@@ -648,6 +648,7 @@ NUMBER,CODE,SERIAL,NAME,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,GENER
 549,1,5491,Lilligant,Grass,,Green,Chlorophyll,Own Tempo,Leaf Guard,5,0,0,1.1,16.3,70,60,75,110,75,90,480
 550,1,5501,Basculin,Water,,Green,Reckless,Adaptability,Mold Breaker,5,0,0,1,18,70,92,65,80,55,98,460
 550,2,5502,Basculin,Water,,Green,Rock Head,Adaptability,Mold Breaker,5,0,0,1,18,70,92,65,80,55,98,460
+550,3,5503,Basculin,Water,,Green,Rattled,Adaptability,Mold Breaker,8,0,0,1,18,70,92,65,80,55,98,460
 551,1,5511,Sandile,Ground,Dark,Brown,Intimidate,Moxie,Anger Point,5,0,0,0.7,15.2,50,72,35,35,35,65,292
 552,1,5521,Krokorok,Ground,Dark,Brown,Intimidate,Moxie,Anger Point,5,0,0,1,33.4,60,82,45,45,45,74,351
 553,1,5531,Krookodile,Ground,Dark,Red,Intimidate,Moxie,Anger Point,5,0,0,1.5,96.3,95,117,80,65,70,92,519
