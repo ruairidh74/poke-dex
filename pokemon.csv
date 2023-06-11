@@ -789,7 +789,7 @@ NUMBER,CODE,SERIAL,NAME,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,GENER
 666,1,6661,Vivillon,Bug,Flying,White,Shield Dust,Compound Eyes,Friend Guard,6,0,0,1.2,17,80,52,50,90,50,89,411
 667,1,6671,Litleo,Fire,Normal,Brown,Rivalry,Unnerve,Moxie,6,0,0,0.6,13.5,62,50,58,73,54,72,369
 668,1,6681,Pyroar,Fire,Normal,Brown,Rivalry,Unnerve,Moxie,6,0,0,1.5,81.5,86,68,72,109,66,106,507
-669,1,6691,Flabebe,Fairy,,White,Flower Veil,,Symbiosis,6,0,0,0.1,0.1,44,38,39,61,79,42,303
+669,1,6691,Flabébé,Fairy,,White,Flower Veil,,Symbiosis,6,0,0,0.1,0.1,44,38,39,61,79,42,303
 670,1,6701,Floette,Fairy,,White,Flower Veil,,Symbiosis,6,0,0,0.2,0.9,54,45,47,75,98,52,371
 671,1,6711,Florges,Fairy,,White,Flower Veil,,Symbiosis,6,0,0,1.1,10,78,65,68,112,154,75,552
 672,1,6721,Skiddo,Grass,,Brown,Sap Sipper,,Grass Pelt,6,0,0,0.9,31,66,65,48,62,57,52,350
@@ -965,8 +965,8 @@ NUMBER,CODE,SERIAL,NAME,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,GENER
 819,1,8191,Skwovet,Normal,,Brown,Cheek Pouch,,Gluttony,8,0,0,0.3,2.5,70,55,40,35,35,25,260
 820,1,8201,Greedent,Normal,,Brown,Cheek Pouch,,Gluttony,8,0,0,0.6,6,120,95,55,55,75,20,420
 821,1,8211,Rookidee,Flying,,Blue,Keen Eye,Unnerve,Big Pecks,8,0,0,0.2,1.8,38,47,65,33,35,57,275
-822,1,8221,Convisquire,Flying,,Blue,Keen Eye,Unnerve,Big Pecks,8,0,0,0.8,16,68,67,55,43,55,77,365
-823,1,8231,Conviknight,Flying,Steel,Purple,Keen Eye,Unnerve,Mirror Armor,8,0,0,2.2,75,98,87,105,53,85,67,495
+822,1,8221,Corvisquire,Flying,,Blue,Keen Eye,Unnerve,Big Pecks,8,0,0,0.8,16,68,67,55,43,55,77,365
+823,1,8231,Corviknight,Flying,Steel,Purple,Keen Eye,Unnerve,Mirror Armor,8,0,0,2.2,75,98,87,105,53,85,67,495
 824,1,8241,Blipbug,Bug,,Blue,Swarm,Compound Eyes,Telepathy,8,0,0,0.4,8,25,20,20,25,45,45,180
 825,1,8251,Dottler,Bug,Psychic,Yellow,Swarm,Compound Eyes,Telepathy,8,0,0,0.4,19.5,50,35,80,50,90,30,335
 826,1,8261,Orbeetle,Bug,Psychic,Red,Swarm,Frisk,Telepathy,8,0,0,0.4,40.8,60,45,110,80,120,90,505
@@ -1036,8 +1036,8 @@ NUMBER,CODE,SERIAL,NAME,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,GENER
 887,1,8871,Dragapult,Dragon,Ghost,Green,Clear Body,Infiltrator,Cursed Body,8,0,0,3,50,88,120,75,100,75,142,600
 888,1,8881,Zacian,Fairy,,Blue,Intrepid Sword,,,8,1,0,2.8,110,92,130,115,80,115,138,670
 888,2,8882,Zacian,Fairy,Steel,Blue,Intrepid Sword,,,8,1,0,2.8,355,92,170,115,80,115,148,720
-889,1,8891,Zamazanta,Fighting,,Red,Dauntless Shield,,,8,1,0,2.9,210,92,130,115,80,115,138,670
-889,2,8892,Zamazanta,Fighting,Steel,Red,Dauntless Shield,,,8,1,0,2.9,785,92,130,145,80,145,128,720
+889,1,8891,Zamazenta,Fighting,,Red,Dauntless Shield,,,8,1,0,2.9,210,92,130,115,80,115,138,670
+889,2,8892,Zamazenta,Fighting,Steel,Red,Dauntless Shield,,,8,1,0,2.9,785,92,130,145,80,145,128,720
 890,1,8901,Eternatus,Poison,Dragon,Purple,Pressure,,,8,1,0,2,950,140,85,95,145,95,130,690
 891,1,8911,Kubfu,Fighting,,Grey,Inner Focus,,,8,1,0,0.6,12,60,90,60,53,50,72,385
 892,1,8921,Urshifu,Fighting,Dark,Grey,Unseen Fist,,,8,1,0,1.9,105,100,130,100,63,60,97,550
