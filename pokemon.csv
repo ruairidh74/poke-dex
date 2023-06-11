@@ -673,7 +673,9 @@ NUMBER,CODE,SERIAL,NAME,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,GENER
 568,1,5681,Trubbish,Poison,,Green,Stench,Sticky Hold,Aftermath,5,0,0,0.6,31,50,50,62,40,62,65,329
 569,1,5691,Garbodor,Poison,,Green,Stench,Weak Armor,Aftermath,5,0,0,1.9,107.3,80,95,82,60,82,75,474
 570,1,5701,Zorua,Dark,,Grey,Illusion,,,5,0,0,0.7,12.5,40,65,40,80,40,65,330
+570,2,5702,Zorua,Normal,Ghost,White,Illusion,,,8,0,0,0.7,12.5,35,60,40,85,40,70,330
 571,1,5711,Zoroark,Dark,,Grey,Illusion,,,5,0,0,1.6,81.1,60,105,60,120,60,105,510
+571,2,5712,Zoroark,Normal,Ghost,White,Illusion,,,8,0,0,1.6,73,55,100,60,125,60,110,510
 572,1,5721,Minccino,Normal,,Grey,Cute Charm,Technician,Skill Link,5,0,0,0.4,5.8,55,50,40,40,40,75,300
 573,1,5731,Cinccino,Normal,,Grey,Cute Charm,Technician,Skill Link,5,0,0,0.5,7.5,75,95,60,65,60,115,470
 574,1,5741,Gothita,Psychic,,Purple,Frisk,Competitive,Shadow Tag,5,0,0,0.4,5.8,45,30,50,55,65,45,290
