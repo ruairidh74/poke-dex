@@ -1050,3 +1050,12 @@ NUMBER,CODE,SERIAL,NAME,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,GENER
 898,1,8981,Calyrex,Psychic,Grass,Green,Unnerve,,,8,1,0,1.1,7.7,100,80,80,80,80,80,500
 898,2,8982,Calyrex,Psychic,Ice,White,As One,,,8,1,0,2.4,809.1,100,165,150,85,130,50,680
 898,3,8983,Calyrex,Psychic,Ghost,Black,As One,,,8,1,0,2.4,53.6,100,85,80,165,100,150,680
+899,1,8991,Wyrdeer,Normal,Psychic,Grey,Intimidate,Frisk,Sap Sipper,8,0,0,1.8,95.1,103,105,72,105,75,65,525
+900,1,9001,Kleavor,Bug,Rock,Brown,Swarm,Sheer Force,Sharpness,8,0,0,1.8,89,70,135,95,45,70,85,500
+901,1,9011,Ursaluna,Ground,Normal,Brown,Guts,Bulletproof,Unnerve,8,0,0,2.4,290,130,140,105,45,80,50,550
+902,1,9021,Basculegion,Water,Ghost,Green,Swift Swim,Adaptability,Mold Breaker,8,0,0,3,110,120,112,65,80,75,78,530
+902,1,9022,Basculegion,Water,Ghost,Green,Swift Swim,Adaptability,Mold Breaker,8,0,0,3,110,120,92,65,100,75,78,530
+903,1,9031,Sneasler,Fighting,Poison,Blue,Pressure,Unburden,Poison Touch,8,0,0,1.3,43,80,130,60,40,80,120,510
+904,1,9041,Overqwil,Dark,Poison,Black,Poison Point,Swift Swim,Intimidate,8,0,0,2.5,60.5,85,115,95,65,65,85,510
+905,1,9051,Enamorus,Fairy,Flying,Pink,Cute Charm,,Contrary,8,1,0,1.6,48,74,115,70,135,80,106,580
+905,2,9052,Enamorus,Fairy,Flying,Pink,Overcoat,,,8,1,0,1.6,48,74,115,110,135,100,46,580
