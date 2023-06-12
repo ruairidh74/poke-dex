@@ -1169,3 +1169,5 @@ NUMBER,CODE,SERIAL,NAME,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,GENER
 1006,1,10061,Iron Valiant,Fairy,Fighting,White,Quark Drive,,,9,0,0,1.4,35,74,130,90,120,60,116,590
 1007,1,10071,Koraidon,Fighting,Dragon,Red,Orichalcum Pulse,,,9,1,0,2.5,303,100,135,115,85,100,135,670
 1008,1,10081,Miraidon,Electric,Dragon,Purple,Hadron Engine,,,9,1,0,3.5,240,100,85,100,135,115,135,670
+1009,1,10091,Walking Wake,Water,Dragon,Blue,Protosynthesis,,,9,0,0,3.5,280,99,83,91,125,83,109,590
+1010,1,10101,Iron Leaves,Grass,Psychic,Green,Quark Drive,,,9,0,0,1.5,125,90,130,88,70,108,104,590
