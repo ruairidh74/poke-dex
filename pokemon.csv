@@ -182,8 +182,11 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,
 142,2,1422,Aerodactyl,Mega Aerodactyl,Rock,Flying,Purple,Tough Claws,,,1,0,1,2.1,79,80,135,85,70,95,150,615
 143,1,1431,Snorlax,,Normal,,Black,Immunity,Thick Fat,Gluttony,1,0,0,2.1,460,160,110,65,65,110,30,540
 144,1,1441,Articuno,,Ice,Flying,Blue,Pressure,,Snow Cloak,1,1,0,1.7,55.4,90,85,100,95,125,85,580
+144,2,1442,Articuno,,Psychic,Flying,Purple,Competitive,,,8,1,0,1.7,50.9,90,85,85,125,100,95,580,,,
 145,1,1451,Zapdos,,Electric,Flying,Yellow,Pressure,,Static,1,1,0,1.6,52.6,90,90,85,125,90,100,580
+145,2,1452,Zapdos,,Fighting,Flying,Orange,Defiant,,,8,1,0,1.6,58.2,90,125,90,85,90,100,580,,,
 146,1,1461,Moltres,,Fire,Flying,Yellow,Pressure,,Flame Body,1,1,0,2,60,90,100,90,125,85,90,580
+146,2,1462,Moltres,,Dark,Flying,Pink,Berserk,,,8,1,0,2,66,90,85,90,100,125,90,580,,,
 147,1,1471,Dratini,,Dragon,,Blue,Shed Skin,,Marvel Scale,1,0,0,1.8,3.3,41,64,45,50,50,50,300
 148,1,1481,Dragonair,,Dragon,,Blue,Shed Skin,,Marvel Scale,1,0,0,4,16.5,61,84,65,70,70,70,420
 149,1,1491,Dragonite,,Dragon,Flying,Brown,Inner Focus,,Multiscale,1,0,0,2.2,210,91,134,95,100,100,80,600
@@ -1039,6 +1042,7 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,
 889,1,8891,Zamazenta,,Fighting,,Red,Dauntless Shield,,,8,1,0,2.9,210,92,130,115,80,115,138,670
 889,2,8892,Zamazenta,,Fighting,Steel,Red,Dauntless Shield,,,8,1,0,2.9,785,92,130,145,80,145,128,720
 890,1,8901,Eternatus,,Poison,Dragon,Purple,Pressure,,,8,1,0,2,950,140,85,95,145,95,130,690
+890,2,8902,Eternatus,,Poison,Dragon,Purple,Pressure,,,8,1,0,2,950,140,85,95,145,95,130,690,,,
 891,1,8911,Kubfu,,Fighting,,Grey,Inner Focus,,,8,1,0,0.6,12,60,90,60,53,50,72,385
 892,1,8921,Urshifu,,Fighting,Dark,Grey,Unseen Fist,,,8,1,0,1.9,105,100,130,100,63,60,97,550
 892,2,8922,Urshifu,,Fighting,Water,Grey,Unseen Fist,,,8,1,0,1.9,105,100,130,100,63,60,97,550
