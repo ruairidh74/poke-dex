@@ -846,9 +846,9 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,
 702,1,7021,Dedenne,,Electric,Fairy,Yellow,Cheek Pouch,Pickup,Plus,6,0,0,0.2,2.2,67,58,57,81,67,101,431
 703,1,7031,Carbink,,Rock,Fairy,Grey,Clear Body,,Sturdy,6,0,0,0.3,5.7,50,50,150,50,150,50,500
 704,1,7041,Goomy,,Dragon,,Purple,Sap Sipper,Hydration,Gooey,6,0,0,0.3,2.8,45,50,35,55,75,40,300
-705,1,7051,Sliggoo,,Dragon,,Purple,Sap Sipper,Hydration,Gooey,6,0,0,0.8,17.5,68,75,53,83,113,60,452
+705,1,7051,Sliggoo,Kalosian,Dragon,,Purple,Sap Sipper,Hydration,Gooey,6,0,0,0.8,17.5,68,75,53,83,113,60,452
 705,2,7052,Sliggoo,,Steel,Dragon,White,Sap Sipper,Shell Armor,Gooey,8,0,0,0.7,68.5,58,75,83,83,113,40,452
-706,1,7061,Goodra,,Dragon,,Purple,Sap Sipper,Hydration,Gooey,6,0,0,2,150.5,90,100,70,110,150,80,600
+706,1,7061,Goodra,Kalosian,Dragon,,Purple,Sap Sipper,Hydration,Gooey,6,0,0,2,150.5,90,100,70,110,150,80,600
 706,2,7062,Goodra,,Steel,Dragon,Purple,Sap Sipper,Shell Armor,Gooey,8,0,0,1.7,334.1,80,100,100,110,150,60,600
 707,1,7071,Klefki,,Steel,Fairy,Grey,Prankster,,Magician,6,0,0,0.2,3,57,80,91,80,87,75,470
 708,1,7081,Phantump,,Ghost,Grass,Brown,Natural Cure,Frisk,Harvest,6,0,0,0.4,7,43,70,48,50,60,38,309
@@ -862,7 +862,7 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,
 711,3,7113,Gourgeist,,Ghost,Grass,Brown,Pickup,Frisk,Insomnia,6,0,0,1.1,14,75,95,122,58,75,69,494
 711,4,7114,Gourgeist,,Ghost,Grass,Brown,Pickup,Frisk,Insomnia,6,0,0,1.7,39,85,100,122,58,75,54,494
 712,1,7121,Bergmite,,Ice,,Blue,Own Tempo,Ice Body,Sturdy,6,0,0,1,99.5,55,69,85,32,35,28,304
-713,1,7131,Avalugg,,Ice,,Blue,Own Tempo,Ice Body,Sturdy,6,0,0,2,505,95,117,184,44,46,28,514
+713,1,7131,Avalugg,Kalosian,Ice,,Blue,Own Tempo,Ice Body,Sturdy,6,0,0,2,505,95,117,184,44,46,28,514
 713,2,7132,Avalugg,,Ice,Rock,Blue,Strong Jaw,Ice Body,Sturdy,8,0,0,1.4,262.4,95,127,184,34,36,38,514
 714,1,7141,Noibat,,Flying,Dragon,Purple,Frisk,Infiltrator,Telepathy,6,0,0,0.5,8,40,30,35,45,40,55,245
 715,1,7151,Noivern,,Flying,Dragon,Purple,Frisk,Infiltrator,Telepathy,6,0,0,1.5,85,85,70,80,97,80,123,535
