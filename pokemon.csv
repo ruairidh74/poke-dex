@@ -206,7 +206,7 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,
 154,1,1541,Meganium,,Grass,,Green,Overgrow,,Leaf guard,2,0,0,1.8,100.5,80,82,100,83,100,80,525
 155,1,1551,Cyndaquil,,Fire,,Yellow,Blaze,,Flash Fire,2,0,0,0.5,7.9,39,52,43,60,50,65,309
 156,1,1561,Quilava,,Fire,,Yellow,Blaze,,Flash Fire,2,0,0,0.9,19,58,64,58,80,65,80,405
-157,1,1571,Typhlosion,,Fire,,Yellow,Blaze,,Flash Fire,2,0,0,1.7,79.5,78,84,78,109,85,100,534
+157,1,1571,Typhlosion,Johtonian,Fire,,Yellow,Blaze,,Flash Fire,2,0,0,1.7,79.5,78,84,78,109,85,100,534
 157,2,1572,Typhlosion,,Fire,Ghost,Yellow,Blaze,,Frisk,8,0,0,1.6,69.8,73,84,78,119,85,95,534
 158,1,1581,Totodile,,Water,,Blue,Torrent,,Sheer Force,2,0,0,0.6,9.5,50,65,64,44,48,43,314
 159,1,1591,Croconaw,,Water,,Blue,Torrent,,Sheer Force,2,0,0,1.1,25,65,80,80,59,63,58,405
@@ -245,7 +245,7 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,
 191,1,1911,Sunkern,,Grass,,Yellow,Chlorophyll,Solar Power,Early Bird,2,0,0,0.3,1.8,30,30,30,30,30,30,180
 192,1,1921,Sunflora,,Grass,,Yellow,Chlorophyll,Solar Power,Early Bird,2,0,0,0.8,8.5,75,75,55,105,85,30,425
 193,1,1931,Yanma,,Bug,Flying,Red,Speed Boost,Compound Eyes,Frisk,2,0,0,1.2,38,65,65,45,75,45,95,390
-194,1,1941,Wooper,,Water,Ground,Blue,Damp,Water Absorb,Unaware,2,0,0,0.4,8.5,55,45,45,25,25,15,210
+194,1,1941,Wooper,Johtonian,Water,Ground,Blue,Damp,Water Absorb,Unaware,2,0,0,0.4,8.5,55,45,45,25,25,15,210
 194,2,1942,Wooper,,Poison,Ground,Brown,Poison Point,Water Absorb,,9,0,0,0.4,11,55,45,45,25,25,15,210
 195,1,1951,Quagsire,,Water,Ground,Blue,Damp,Water Absorb,Unaware,2,0,0,1.4,75,95,85,85,65,65,35,430
 196,1,1961,Espeon,,Psychic,,Purple,Synchronize,,Magic Bounce,2,0,0,0.9,26.5,65,65,60,130,95,110,525
@@ -264,14 +264,14 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,
 208,2,2082,Steelix,Mega Steelix,Steel,Ground,Grey,Sand Force,,,2,0,1,10.5,740,75,125,230,55,95,30,610
 209,1,2091,Snubbull,,Fairy,,Pink,Intimidate,Run Away,Rattled,2,0,0,0.6,7.8,60,80,50,40,40,30,300
 210,1,2101,Granbull,,Fairy,,Purple,Intimidate,Quick Feet,Rattled,2,0,0,1.4,48.7,90,120,75,60,60,45,450
-211,1,2111,Qwilfish,,Water,Poison,Grey,Poison Point,Swift Swim,Intimidate,2,0,0,0.5,3.9,65,95,85,55,55,85,440
+211,1,2111,Qwilfish,Johtonian,Water,Poison,Grey,Poison Point,Swift Swim,Intimidate,2,0,0,0.5,3.9,65,95,85,55,55,85,440
 211,2,2112,Qwilfish,,Dark,Poison,Black,Poison Point,Swift Swim,Intimidate,8,0,0,0.5,3.9,65,95,85,55,55,85,440
 212,1,2121,Scizor,,Bug,Steel,Red,Swarm,Technician,Light Metal,2,0,0,1.8,118,70,130,100,55,80,65,500
 212,2,2122,Scizor,Mega Scizor,Bug,Steel,Red,Technician,,,2,0,1,2,125,70,150,140,65,100,75,600
 213,1,2131,Shuckle,,Bug,Rock,Yellow,Sturdy,Gluttony,Contrary,2,0,0,0.6,20.5,20,10,230,10,230,5,505
 214,1,2141,Heracross,,Bug,Fighting,Blue,Swarm,Guts,Moxie,2,0,0,1.5,54,80,125,75,40,95,85,500
 214,2,2142,Heracross,Mega Heracross,Bug,Fighting,Blue,Skill Link,,,2,0,1,1.7,62.5,80,185,115,40,105,75,600
-215,1,2151,Sneasel,,Dark,Ice,Black,Inner Focus,Keen Eye,Pickpocket,2,0,0,0.9,28,55,95,55,35,75,115,430
+215,1,2151,Sneasel,Johtonian,Dark,Ice,Black,Inner Focus,Keen Eye,Pickpocket,2,0,0,0.9,28,55,95,55,35,75,115,430
 215,2,2152,Sneasel,,Fighting,Poison,Grey,Inner Focus,Keen Eye,Pickpocket,8,0,0,0.9,27,55,95,55,35,75,115,430
 216,1,2161,Teddiursa,,Normal,,Brown,Pickup,Quick Feet,Honey Gather,2,0,0,0.6,8.8,60,80,50,50,50,40,330
 217,1,2171,Ursaring,,Normal,,Brown,Guts,Quick Feet,Unnerve,2,0,0,1.8,125.8,90,130,75,75,75,55,500
@@ -279,7 +279,7 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,
 219,1,2191,Magcargo,,Fire,Rock,Red,Magma Armor,Flame Body,Weak Armor,2,0,0,0.8,55,60,50,120,90,80,30,430
 220,1,2201,Swinub,,Ice,Ground,Brown,Oblivious,Snow Cloak,Thick Fat,2,0,0,0.4,6.5,50,50,40,30,30,50,250
 221,1,2211,Piloswine,,Ice,Ground,Brown,Oblivious,Snow Cloak,Thick Fat,2,0,0,1.1,55.8,100,100,80,60,60,50,450
-222,1,2221,Corsola,,Water,Rock,Pink,Hustle,Natural Cure,Regenerator,2,0,0,0.6,5,65,55,95,65,95,35,410
+222,1,2221,Corsola,Johtonian,Water,Rock,Pink,Hustle,Natural Cure,Regenerator,2,0,0,0.6,5,65,55,95,65,95,35,410
 222,2,2222,Corsola,,Ghost,,White,Weak Armor,,Cursed Body,8,0,0,0.6,0.5,65,55,100,65,100,30,415
 223,1,2231,Remoraid,,Water,,Grey,Hustle,Sniper,Moody,2,0,0,0.6,12,35,65,35,65,35,65,300
 224,1,2241,Octillery,,Water,,Red,Suction Cups,Sniper,Moody,2,0,0,0.9,28.5,75,105,75,105,75,45,480
