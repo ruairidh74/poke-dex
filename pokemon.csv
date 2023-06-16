@@ -67,7 +67,7 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,
 51,2,512,Dugtrio,Alolan,Ground,Steel,Brown,Sand Veil,Tangling Hair,Sand Force,7,0,0,0.7,66.6,35,100,60,50,70,110,425
 52,1,521,Meowth,Kantonian,Normal,,Yellow,Pickup,Technician,Unnerve,1,0,0,0.4,4.2,40,45,35,40,40,90,290
 52,2,522,Meowth,Alolan,Dark,,Blue,Pickup,Technician,Rattled,7,0,0,0.4,4.2,40,35,35,50,40,90,290
-52,3,523,Meowth,,Steel,,Brown,Pickup,Tough Claws,Unnerve,8,0,0,0.4,7.5,50,65,55,40,40,40,290
+52,3,523,Meowth,Galarian,Steel,,Brown,Pickup,Tough Claws,Unnerve,8,0,0,0.4,7.5,50,65,55,40,40,40,290
 53,1,531,Persian,Kantonian,Normal,,Yellow,Limber,Technician,Unnerve,1,0,0,1,32,65,70,60,65,65,115,440
 53,2,532,Persian,Alolan,Dark,,Blue,Fur Coat,Technician,Rattled,7,0,0,1.1,33,65,60,60,75,65,115,440
 54,1,541,Psyduck,,Water,,Yellow,Damp,Cloud Nine,Swift Swim,1,0,0,0.8,19.6,50,52,48,65,50,55,320
@@ -100,18 +100,18 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,
 76,1,761,Golem,Kantonian,Rock,Ground,Brown,Rock Head,Sturdy,Sand Veil,1,0,0,1.4,300,80,120,130,55,65,45,495
 76,2,762,Golem,Alolan,Rock,Electric,Grey,Magnet Pull,Sturdy,Galvanize,7,0,0,1.7,316,80,120,130,55,65,45,495
 77,1,771,Ponyta,Kantonian,Fire,,Yellow,Run Away,Flash Fire,Flame Body,1,0,0,1,30,50,85,55,65,65,90,410
-77,2,772,Ponyta,,Psychic,,White,Run Away,Pastel Veil,Anticipation,8,0,0,0.8,24,50,85,55,65,65,90,410
+77,2,772,Ponyta,Galarian,Psychic,,White,Run Away,Pastel Veil,Anticipation,8,0,0,0.8,24,50,85,55,65,65,90,410
 78,1,781,Rapidash,Kantonian,Fire,,Yellow,Run Away,Flash Fire,Flame Body,1,0,0,1.7,95,65,100,70,80,80,105,500
-78,2,782,Rapidash,,Psychic,Fairy,White,Run Away,Pastel Veil,Anticipation,8,0,0,1.7,80,65,100,70,80,80,105,500
+78,2,782,Rapidash,Galarian,Psychic,Fairy,White,Run Away,Pastel Veil,Anticipation,8,0,0,1.7,80,65,100,70,80,80,105,500
 79,1,791,Slowpoke,Kantonian,Water,Psychic,Pink,Oblivious,Own Tempo,Regenerator,1,0,0,1.2,36,90,65,65,40,40,15,315
-79,2,792,Slowpoke,,Psychic,,Pink,Gluttony,Own Tempo,Regenerator,8,0,0,1.2,36,90,65,65,40,40,15,315
+79,2,792,Slowpoke,Galarian,Psychic,,Pink,Gluttony,Own Tempo,Regenerator,8,0,0,1.2,36,90,65,65,40,40,15,315
 80,1,801,Slowbro,Kantonian,Water,Psychic,Pink,Oblivious,Own Tempo,Regenerator,1,0,0,1.6,78.5,95,75,110,100,80,30,490
-80,2,802,Slowbro,,Poison,Psychic,Pink,Quick Draw,Own Tempo,Regenerator,8,0,0,1.6,70.5,95,100,95,100,70,30,490
+80,2,802,Slowbro,Galarian,Poison,Psychic,Pink,Quick Draw,Own Tempo,Regenerator,8,0,0,1.6,70.5,95,100,95,100,70,30,490
 80,3,803,Slowbro,Mega Slowbro,Water,Psychic,Pink,Shell Armor,,,1,0,1,2,120,95,75,180,130,80,30,590
 81,1,811,Magnemite,,Electric,Steel,Grey,Magnet Pull,Sturdy,Analytic,1,0,0,0.3,6,25,35,70,95,55,45,325
 82,1,821,Magneton,,Electric,Steel,Grey,Magnet Pull,Sturdy,Analytic,1,0,0,1,60,50,60,95,120,70,70,465
 83,1,831,Farfetch'd,Kantonian,Normal,Flying,Brown,Keen Eye,Inner Focus,Defiant,1,0,0,0.8,15,52,90,55,58,62,60,377
-83,2,832,Farfetch'd,,Fighting,,Brown,Steadfast,,Scrappy,8,0,0,0.8,42,52,95,55,58,62,55,377
+83,2,832,Farfetch'd,Galarian,Fighting,,Brown,Steadfast,,Scrappy,8,0,0,0.8,42,52,95,55,58,62,55,377
 84,1,841,Doduo,,Normal,Flying,Brown,Run Away,Early Bird,Tangled Feet,1,0,0,1.4,39.2,35,85,45,35,35,75,310
 85,1,851,Dodrio,,Normal,Flying,Brown,Run Away,Early Bird,Tangled Feet,1,0,0,1.8,85.2,60,110,70,60,60,110,470
 86,1,861,Seel,,Water,,White,Thick Fat,Hydration,Ice Body,1,0,0,1.1,90,65,45,55,45,70,45,325
@@ -146,7 +146,7 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,
 108,1,1081,Lickitung,,Normal,,Pink,Own Tempo,Oblivious,Cloud Nine,1,0,0,1.2,65.5,90,55,75,60,75,30,385
 109,1,1091,Koffing,,Poison,,Purple,Levitate,Neutralizing Gas,Stench,1,0,0,0.6,1,40,65,95,60,45,35,340
 110,1,1101,Weezing,Kantonian,Poison,,Purple,Levitate,Neutralizing Gas,Stench,1,0,0,1.2,9.5,65,90,120,85,70,60,490
-110,2,1102,Weezing,,Poison,Fairy,Grey,Levitate,Neutralizing Gas,Misty Surge,8,0,0,3,16,65,90,120,85,70,60,490
+110,2,1102,Weezing,Galarian,Poison,Fairy,Grey,Levitate,Neutralizing Gas,Misty Surge,8,0,0,3,16,65,90,120,85,70,60,490
 111,1,1111,Rhyhorn,,Ground,Rock,Grey,Lightning Rod,Rock Head,Reckless,1,0,0,1,115,80,85,95,30,30,25,345
 112,1,1121,Rhydon,,Ground,Rock,Grey,Lightning Rod,Rock Head,Reckless,1,0,0,1.9,120,105,130,120,45,45,40,485
 113,1,1131,Chansey,,Normal,,Pink,Natural Cure,Serene Grace,Healer,1,0,0,1.1,34.6,250,5,5,35,105,50,450
@@ -160,7 +160,7 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,
 120,1,1201,Staryu,,Water,,Brown,Illuminate,Natural Cure,Analytic,1,0,0,0.8,34.5,30,45,55,70,55,85,340
 121,1,1211,Starmie,,Water,Psychic,Purple,Illuminate,Natural Cure,Analytic,1,0,0,1.1,80,60,75,85,100,85,115,520
 122,1,1221,Mr. Mime,Kantonian,Psychic,Fairy,Pink,Soundproof,Filter,Technician,1,0,0,1.3,54.5,40,45,65,100,120,90,460
-122,2,1222,Mr. Mime,,Psychic,Ice,White,Vital Spirit,Screen Cleaner,Ice Body,8,0,0,1.4,56.8,50,65,65,90,90,100,460
+122,2,1222,Mr. Mime,Galarian,Psychic,Ice,White,Vital Spirit,Screen Cleaner,Ice Body,8,0,0,1.4,56.8,50,65,65,90,90,100,460
 123,1,1231,Scyther,,Bug,Flying,Green,Swarm,Technician,Steadfast,1,0,0,1.5,56,70,110,80,55,80,105,500
 124,1,1241,Jynx,,Ice,Psychic,Red,Oblivious,Forewarn,Dry Skin,1,0,0,1.4,40.6,65,50,35,115,95,95,455
 125,1,1251,Electabuzz,,Electric,,Yellow,Static,,Vital Spirit,1,0,0,1.1,30,65,83,57,95,85,105,490
@@ -189,11 +189,11 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,
 142,2,1422,Aerodactyl,Mega Aerodactyl,Rock,Flying,Purple,Tough Claws,,,1,0,1,2.1,79,80,135,85,70,95,150,615
 143,1,1431,Snorlax,,Normal,,Black,Immunity,Thick Fat,Gluttony,1,0,0,2.1,460,160,110,65,65,110,30,540
 144,1,1441,Articuno,Kantonian,Ice,Flying,Blue,Pressure,,Snow Cloak,1,1,0,1.7,55.4,90,85,100,95,125,85,580
-144,2,1442,Articuno,,Psychic,Flying,Purple,Competitive,,,8,1,0,1.7,50.9,90,85,85,125,100,95,580
+144,2,1442,Articuno,Galarian,Psychic,Flying,Purple,Competitive,,,8,1,0,1.7,50.9,90,85,85,125,100,95,580
 145,1,1451,Zapdos,Kantonian,Electric,Flying,Yellow,Pressure,,Static,1,1,0,1.6,52.6,90,90,85,125,90,100,580
-145,2,1452,Zapdos,,Fighting,Flying,Orange,Defiant,,,8,1,0,1.6,58.2,90,125,90,85,90,100,580
+145,2,1452,Zapdos,Galarian,Fighting,Flying,Orange,Defiant,,,8,1,0,1.6,58.2,90,125,90,85,90,100,580
 146,1,1461,Moltres,Kantonian,Fire,Flying,Yellow,Pressure,,Flame Body,1,1,0,2,60,90,100,90,125,85,90,580
-146,2,1462,Moltres,,Dark,Flying,Pink,Berserk,,,8,1,0,2,66,90,85,90,100,125,90,580
+146,2,1462,Moltres,Galarian,Dark,Flying,Pink,Berserk,,,8,1,0,2,66,90,85,90,100,125,90,580
 147,1,1471,Dratini,,Dragon,,Blue,Shed Skin,,Marvel Scale,1,0,0,1.8,3.3,41,64,45,50,50,50,300
 148,1,1481,Dragonair,,Dragon,,Blue,Shed Skin,,Marvel Scale,1,0,0,4,16.5,61,84,65,70,70,70,420
 149,1,1491,Dragonite,,Dragon,Flying,Brown,Inner Focus,,Multiscale,1,0,0,2.2,210,91,134,95,100,100,80,600
@@ -280,7 +280,7 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,
 220,1,2201,Swinub,,Ice,Ground,Brown,Oblivious,Snow Cloak,Thick Fat,2,0,0,0.4,6.5,50,50,40,30,30,50,250
 221,1,2211,Piloswine,,Ice,Ground,Brown,Oblivious,Snow Cloak,Thick Fat,2,0,0,1.1,55.8,100,100,80,60,60,50,450
 222,1,2221,Corsola,Johtonian,Water,Rock,Pink,Hustle,Natural Cure,Regenerator,2,0,0,0.6,5,65,55,95,65,95,35,410
-222,2,2222,Corsola,,Ghost,,White,Weak Armor,,Cursed Body,8,0,0,0.6,0.5,65,55,100,65,100,30,415
+222,2,2222,Corsola,Galarian,Ghost,,White,Weak Armor,,Cursed Body,8,0,0,0.6,0.5,65,55,100,65,100,30,415
 223,1,2231,Remoraid,,Water,,Grey,Hustle,Sniper,Moody,2,0,0,0.6,12,35,65,35,65,35,65,300
 224,1,2241,Octillery,,Water,,Red,Suction Cups,Sniper,Moody,2,0,0,0.9,28.5,75,105,75,105,75,45,480
 225,1,2251,Delibird,,Ice,Flying,Red,Vital Spirit,Hustle,Insomnia,2,0,0,0.9,16,45,55,45,65,45,75,330
@@ -327,9 +327,9 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,
 261,1,2611,Poochyena,,Dark,,Grey,Run Away,Quick Feet,Rattled,3,0,0,0.5,13.6,35,55,35,30,30,35,220
 262,1,2621,Mightyena,,Dark,,Grey,Intimidate,Quick Feet,Moxie,3,0,0,1,37,70,90,70,60,60,70,420
 263,1,2631,Zigzagoon,Hoennian,Normal,,Brown,Pickup,Gluttony,Quick Feet,3,0,0,0.4,17.5,38,30,41,30,41,60,240
-263,2,2632,Zigzagoon,,Dark,Normal,White,Pickup,Gluttony,Quick Feet,8,0,0,0.4,17.5,38,30,41,30,41,60,240
+263,2,2632,Zigzagoon,Galarian,Dark,Normal,White,Pickup,Gluttony,Quick Feet,8,0,0,0.4,17.5,38,30,41,30,41,60,240
 264,1,2641,Linoone,Hoennian,Normal,,White,Pickup,Gluttony,Quick Feet,3,0,0,0.5,32.5,78,70,61,50,61,100,420
-264,2,2642,Linoone,,Dark,Normal,White,Pickup,Gluttony,Quick Feet,8,0,0,0.5,32.5,78,70,61,50,61,100,420
+264,2,2642,Linoone,Galarian,Dark,Normal,White,Pickup,Gluttony,Quick Feet,8,0,0,0.5,32.5,78,70,61,50,61,100,420
 265,1,2651,Wurmple,,Bug,,Red,Shield Dust,,Run Away,3,0,0,0.3,3.6,45,45,35,20,30,20,195
 266,1,2661,Silcoon,,Bug,,White,Shed Skin,,,3,0,0,0.6,10,50,35,55,25,25,15,205
 267,1,2671,Beautifly,,Bug,Flying,Yellow,Swarm,,Rivalry,3,0,0,1,28.4,60,70,50,100,50,65,395
@@ -671,11 +671,11 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,
 552,1,5521,Krokorok,,Ground,Dark,Brown,Intimidate,Moxie,Anger Point,5,0,0,1,33.4,60,82,45,45,45,74,351
 553,1,5531,Krookodile,,Ground,Dark,Red,Intimidate,Moxie,Anger Point,5,0,0,1.5,96.3,95,117,80,65,70,92,519
 554,1,5541,Darumaka,Unovan,Fire,,Red,Hustle,,Inner Focus,5,0,0,0.6,37.5,70,90,45,15,45,50,315
-554,2,5542,Darumaka,,Ice,,White,Hustle,,Inner Focus,8,0,0,0.7,40,70,90,45,15,45,50,315
+554,2,5542,Darumaka,Galarian,Ice,,White,Hustle,,Inner Focus,8,0,0,0.7,40,70,90,45,15,45,50,315
 555,1,5551,Darmanitan,Unovan Standard Mode,Fire,,Red,Sheer Force,,Zen Mode,5,0,0,1.3,92.9,105,140,55,30,55,95,480
 555,2,5552,Darmanitan,Unovan Zen Mode,Fire,Psychic,White,Zen Mode,,,5,0,0,1.3,92.9,105,30,105,140,105,55,540
-555,3,5553,Darmanitan,,Ice,,White,Gorilla Tactics,,Zen Mode,8,0,0,1.7,120,105,140,55,30,55,95,480
-555,4,5554,Darmanitan,,Ice,Fire,White,Gorilla Tactics,,Zen Mode,8,0,0,1.7,120,105,160,55,30,55,135,540
+555,3,5553,Darmanitan,Galarian Standard Mode,Ice,,White,Gorilla Tactics,,Zen Mode,8,0,0,1.7,120,105,140,55,30,55,95,480
+555,4,5554,Darmanitan,Galarian Zen Mode,Ice,Fire,White,Gorilla Tactics,,Zen Mode,8,0,0,1.7,120,105,160,55,30,55,135,540
 556,1,5561,Maractus,,Grass,,Green,Water Absorb,Chlorophyll,Storm Drain,5,0,0,1,28,75,86,67,106,67,60,461
 557,1,5571,Dwebble,,Bug,Rock,Red,Sturdy,Shell Armor,Weak Armor,5,0,0,0.3,14.5,50,65,85,35,35,55,325
 558,1,5581,Crustle,,Bug,Rock,Red,Sturdy,Shell Armor,Weak Armor,5,0,0,1.4,200,70,105,125,65,75,45,485
@@ -683,7 +683,7 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,
 560,1,5601,Scrafty,,Dark,Fighting,Red,Shed Skin,Moxie,Intimidate,5,0,0,1.1,30,65,90,115,45,115,58,488
 561,1,5611,Sigilyph,,Psychic,Flying,Black,Wonder Skin,Magic Guard,Tinted Lens,5,0,0,1.4,14,72,58,80,103,80,97,490
 562,1,5621,Yamask,Unovan,Ghost,,Black,Mummy,,,5,0,0,0.5,1.5,38,30,85,55,65,30,303
-562,2,5622,Yamask,,Ghost,Ground,Black,Wandering Spirit,,,8,0,0,0.5,1.5,38,55,85,30,65,30,303
+562,2,5622,Yamask,Galarian,Ghost,Ground,Black,Wandering Spirit,,,8,0,0,0.5,1.5,38,55,85,30,65,30,303
 563,1,5631,Cofagrigus,,Ghost,,Yellow,Mummy,,,5,0,0,1.7,76.5,58,50,145,95,105,30,483
 564,1,5641,Tirtouga,,Water,Rock,Blue,Solid Rock,Sturdy,Swift Swim,5,0,0,0.7,16.5,54,78,103,53,45,22,355
 565,1,5651,Carracosta,,Water,Rock,Blue,Solid Rock,Sturdy,Swift Swim,5,0,0,1.2,81,74,108,133,83,65,32,495
@@ -748,7 +748,7 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,
 616,1,6161,Shelmet,,Bug,,Red,Hydration,Shell Armor,Overcoat,5,0,0,0.4,7.7,50,40,85,40,65,25,305
 617,1,6171,Accelgor,,Bug,,Red,Hydration,Sticky Hold,Unburden,5,0,0,0.8,25.3,80,70,40,100,60,145,495
 618,1,6181,Stunfisk,Unovan,Electric,Ground,Brown,Static,Limber,Sand Veil,5,0,0,0.7,11,109,66,84,81,99,32,471
-618,2,6182,Stunfisk,,Ground,Steel,Green,Mimicry,,,8,0,0,0.7,20.5,109,81,99,66,84,32,471
+618,2,6182,Stunfisk,Galarian,Ground,Steel,Green,Mimicry,,,8,0,0,0.7,20.5,109,81,99,66,84,32,471
 619,1,6191,Mienfoo,,Fighting,,Yellow,Inner Focus,Regenerator,Reckless,5,0,0,0.9,20,45,85,50,55,50,65,350
 620,1,6201,Mienshao,,Fighting,,Purple,Inner Focus,Regenerator,Reckless,5,0,0,1.4,35.5,65,125,60,95,60,105,510
 621,1,6211,Druddigon,,Dragon,,Red,Rough Skin,Sheer Force,Mold Breaker,5,0,0,1.6,139,77,120,90,60,90,48,485
