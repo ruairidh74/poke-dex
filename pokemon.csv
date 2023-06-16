@@ -168,9 +168,9 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,
 127,1,1271,Pinsir,,Bug,,Brown,Hyper Cutter,Mold Breaker,Moxie,1,0,0,1.5,55,65,125,100,55,70,85,500
 127,2,1272,Pinsir,Mega Pinsir,Bug,Flying,Brown,Aerilate,,,1,0,1,1.7,59,65,155,120,65,90,105,600
 128,1,1281,Tauros,Kantonian,Normal,,Brown,Intimidate,Anger Point,Sheer Force,1,0,0,1.4,88.4,75,100,95,40,70,110,490
-128,2,1282,Tauros,,Fighting,,Black,Intimidate,Anger Point,Sheer Force,9,0,0,1.4,115,75,110,105,30,70,100,490
-128,3,1283,Tauros,,Fighting,Fire,Black,Intimidate,Anger Point,Sheer Force,9,0,0,1.4,85,75,110,105,30,70,100,490
-128,4,1284,Tauros,,Fighting,Water,Black,Intimidate,Anger Point,Sheer Force,9,0,0,1.4,110,75,110,105,30,70,100,490
+128,2,1282,Tauros,Paldean Combat Breed,Fighting,,Black,Intimidate,Anger Point,Sheer Force,9,0,0,1.4,115,75,110,105,30,70,100,490
+128,3,1283,Tauros,Paldean Blaze Breed,Fighting,Fire,Black,Intimidate,Anger Point,Sheer Force,9,0,0,1.4,85,75,110,105,30,70,100,490
+128,4,1284,Tauros,Paldean Aqua Breed,Fighting,Water,Black,Intimidate,Anger Point,Sheer Force,9,0,0,1.4,110,75,110,105,30,70,100,490
 129,1,1291,Magikarp,,Water,,Red,Swift Swim,,Rattled,1,0,0,0.9,10,20,10,55,15,20,80,200
 130,1,1301,Gyarados,,Water,Flying,Blue,Intimidate,,Moxie,1,0,0,6.5,235,95,125,79,60,100,81,540
 130,2,1302,Gyarados,Mega Gyarados,Water,Dark,Blue,Mold Breaker,,,1,0,1,6.5,305,95,155,109,70,130,81,640
@@ -246,7 +246,7 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,
 192,1,1921,Sunflora,,Grass,,Yellow,Chlorophyll,Solar Power,Early Bird,2,0,0,0.8,8.5,75,75,55,105,85,30,425
 193,1,1931,Yanma,,Bug,Flying,Red,Speed Boost,Compound Eyes,Frisk,2,0,0,1.2,38,65,65,45,75,45,95,390
 194,1,1941,Wooper,Johtonian,Water,Ground,Blue,Damp,Water Absorb,Unaware,2,0,0,0.4,8.5,55,45,45,25,25,15,210
-194,2,1942,Wooper,,Poison,Ground,Brown,Poison Point,Water Absorb,,9,0,0,0.4,11,55,45,45,25,25,15,210
+194,2,1942,Wooper,Paldean,Poison,Ground,Brown,Poison Point,Water Absorb,,9,0,0,0.4,11,55,45,45,25,25,15,210
 195,1,1951,Quagsire,,Water,Ground,Blue,Damp,Water Absorb,Unaware,2,0,0,1.4,75,95,85,85,65,65,35,430
 196,1,1961,Espeon,,Psychic,,Purple,Synchronize,,Magic Bounce,2,0,0,0.9,26.5,65,65,60,130,95,110,525
 197,1,1971,Umbreon,,Dark,,Black,Synchronize,,Inner Focus,2,0,0,1,27,95,65,110,60,130,65,525
