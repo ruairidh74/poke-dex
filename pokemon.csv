@@ -1343,7 +1343,9 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,
 975,1,9751,Cetitan,,Ice,,White,Thick Fat,Slush Rush,Sheer Force,9,0,0,4.5,700,170,113,65,45,55,73,521
 976,1,9761,Veluza,,Water,Psychic,Grey,Mold Breaker,Sharpness,,9,0,0,2.5,90,90,102,73,78,65,70,478
 977,1,9771,Dondozo,,Water,,Blue,Unaware,Oblivious,Water Veil,9,0,0,12,220,150,100,115,65,65,35,530
-978,1,9781,Tatsugiri,,Dragon,Water,Orange,Commander,,Storm Drain,9,0,0,0.3,8,68,50,60,120,95,82,475
+978,1,9781,Tatsugiri,Curly,Dragon,Water,Orange,Commander,,Storm Drain,9,0,0,0.3,8,68,50,60,120,95,82,475
+978,2,9782,Tatsugiri,Droopy,Dragon,Water,Orange,Commander,,Storm Drain,9,0,0,0.3,8,68,50,60,120,95,82,475
+978,3,9783,Tatsugiri,Stretchy,Dragon,Water,Orange,Commander,,Storm Drain,9,0,0,0.3,8,68,50,60,120,95,82,475
 979,1,9791,Annihilape,,Fighting,Ghost,Grey,Vital Spirit,Inner Focus,Defiant,9,0,0,1.2,56,110,115,80,50,90,90,535
 980,1,9801,Clodsire,,Poison,Ground,Brown,Poison Point,Water Absorb,Unaware,9,0,0,1.8,223,130,75,60,45,100,20,430
 981,1,9811,Farigiraf,,Normal,Psychic,Orange,Cud Chew,Armor Tail,Sap Sipper,9,0,0,3.2,160,120,90,70,110,70,60,520
