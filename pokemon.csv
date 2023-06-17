@@ -1135,7 +1135,8 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,
 851,2,8512,Centiskorch,Gigantamax,Fire,Bug,Red,Flash Fire,White Smoke,Flame Body,8,0,0,3,120,100,115,65,90,90,65,525
 852,1,8521,Clobbopus,,Fighting,,Brown,Limber,,Technician,8,0,0,0.6,4,50,68,60,50,50,32,310
 853,1,8531,Grapploct,,Fighting,,Blue,Limber,,Technician,8,0,0,1.6,39,80,118,90,70,80,42,480
-854,1,8541,Sinistea,,Ghost,,Purple,Weak Armor,,Cursed Body,8,0,0,0.1,0.2,40,45,45,74,54,50,308
+854,1,8541,Sinistea,Phony,Ghost,,Purple,Weak Armor,,Cursed Body,8,0,0,0.1,0.2,40,45,45,74,54,50,308
+854,2,8542,Sinistea,Antique,Ghost,,Purple,Weak Armor,,Cursed Body,8,0,0,0.1,0.2,40,45,45,74,54,50,308
 855,1,8551,Polteageist,,Ghost,,Purple,Weak Armor,,Cursed Body,8,0,0,0.2,0.4,60,65,65,134,114,70,508
 856,1,8561,Hatenna,,Psychic,,Pink,Healer,Anticipation,Magic Bounce,8,0,0,0.4,3.4,42,30,60,56,53,39,280
 857,1,8571,Hattrem,,Psychic,,Pink,Healer,Anticipation,Magic Bounce,8,0,0,0.6,4.8,57,40,90,86,73,49,395
