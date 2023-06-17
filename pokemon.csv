@@ -639,7 +639,24 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,
 491,1,4911,Darkrai,,Dark,,Black,Bad Dreams,,,4,1,0,1.5,50.5,70,90,90,135,90,125,600
 492,1,4921,Shaymin,,Grass,,Green,Natural cure,,,4,1,0,0.2,2.1,100,100,100,100,100,100,600
 492,2,4922,Shaymin,,Grass,Flying,Green,Serene Grace,,,4,1,0,0.4,5.2,100,103,75,120,75,127,600
-493,1,4931,Arceus,,Normal,,White,Multitype,,,4,1,0,3.2,320,120,120,120,120,120,120,720
+493,1,4931,Arceus,Normal Type,Normal,,White,Multitype,,,4,1,0,3.2,320,120,120,120,120,120,120,720
+493,2,4932,Arceus,Bug Type,Normal,,White,Multitype,,,4,1,0,3.2,320,120,120,120,120,120,120,720
+493,3,4933,Arceus,Dark Type,Normal,,White,Multitype,,,4,1,0,3.2,320,120,120,120,120,120,120,720
+493,4,4934,Arceus,Dragon Type,Normal,,White,Multitype,,,4,1,0,3.2,320,120,120,120,120,120,120,720
+493,5,4935,Arceus,Electric Type,Normal,,White,Multitype,,,4,1,0,3.2,320,120,120,120,120,120,120,720
+493,6,4936,Arceus,Fairy Type,Normal,,White,Multitype,,,4,1,0,3.2,320,120,120,120,120,120,120,720
+493,7,4937,Arceus,Fighting Type,Normal,,White,Multitype,,,4,1,0,3.2,320,120,120,120,120,120,120,720
+493,8,4938,Arceus,Fire Type,Normal,,White,Multitype,,,4,1,0,3.2,320,120,120,120,120,120,120,720
+493,9,4939,Arceus,Flying Type,Normal,,White,Multitype,,,4,1,0,3.2,320,120,120,120,120,120,120,720
+493,10,4940,Arceus,Ghost Type,Normal,,White,Multitype,,,4,1,0,3.2,320,120,120,120,120,120,120,720
+493,11,49401,Arceus,Grass Type,Normal,,White,Multitype,,,4,1,0,3.2,320,120,120,120,120,120,120,720
+493,12,49402,Arceus,Ground Type,Normal,,White,Multitype,,,4,1,0,3.2,320,120,120,120,120,120,120,720
+493,13,49403,Arceus,Ice Type,Normal,,White,Multitype,,,4,1,0,3.2,320,120,120,120,120,120,120,720
+493,14,49404,Arceus,Poison Type,Normal,,White,Multitype,,,4,1,0,3.2,320,120,120,120,120,120,120,720
+493,15,49405,Arceus,Psychic Type,Normal,,White,Multitype,,,4,1,0,3.2,320,120,120,120,120,120,120,720
+493,16,49406,Arceus,Rock Type,Normal,,White,Multitype,,,4,1,0,3.2,320,120,120,120,120,120,120,720
+493,17,49407,Arceus,Steel Type,Normal,,White,Multitype,,,4,1,0,3.2,320,120,120,120,120,120,120,720
+493,18,49408,Arceus,Water Type,Normal,,White,Multitype,,,4,1,0,3.2,320,120,120,120,120,120,120,720
 494,1,4941,Victini,,Psychic,Fire,Yellow,Victory Star,,,5,1,0,0.4,4,100,100,100,100,100,100,600
 495,1,4951,Snivy,,Grass,,Green,Overgrow,,Contrary,5,0,0,0.6,8.1,45,45,55,45,55,63,308
 496,1,4961,Servine,,Grass,,Green,Overgrow,,Contrary,5,0,0,0.8,16,60,60,75,60,75,83,413
