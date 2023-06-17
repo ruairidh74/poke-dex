@@ -460,10 +460,10 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,
 348,1,3481,Armaldo,,Rock,Bug,Grey,Battle Armor,,Swift Swim,3,0,0,1.5,68.2,75,125,100,70,80,45,495
 349,1,3491,Feebas,,Water,,Brown,Swift Swim,Oblivious,Adaptability,3,0,0,0.6,7.4,20,15,20,10,55,80,200
 350,1,3501,Milotic,,Water,,Pink,Marvel Scale,Competitive,Cute Charm,3,0,0,6.2,162,95,60,79,100,125,81,540
-351,1,3511,Castform,,Normal,,Grey,Forecast,,,3,0,0,0.3,0.8,70,70,70,70,70,70,420
-351,2,3512,Castform,,Fire,,Red,Forecast,,,3,0,0,0.3,0.8,70,70,70,70,70,70,420
-351,3,3513,Castform,,Water,,Blue,Forecast,,,3,0,0,0.3,0.8,70,70,70,70,70,70,420
-351,4,3514,Castform,,Ice,,White,Forecast,,,3,0,0,0.3,0.8,70,70,70,70,70,70,420
+351,1,3511,Castform,Normal,Normal,,Grey,Forecast,,,3,0,0,0.3,0.8,70,70,70,70,70,70,420
+351,2,3512,Castform,Sunny,Fire,,Red,Forecast,,,3,0,0,0.3,0.8,70,70,70,70,70,70,420
+351,3,3513,Castform,Rainy,Water,,Blue,Forecast,,,3,0,0,0.3,0.8,70,70,70,70,70,70,420
+351,4,3514,Castform,Snowy,Ice,,White,Forecast,,,3,0,0,0.3,0.8,70,70,70,70,70,70,420
 352,1,3521,Kecleon,,Normal,,Green,Color Change,,Protean,3,0,0,1,22,60,90,70,60,120,40,440
 353,1,3531,Shuppet,,Ghost,,Black,Insomnia,Frisk,Cursed Body,3,0,0,0.6,2.3,44,75,35,63,33,45,295
 354,1,3541,Banette,,Ghost,,Black,Insomnia,Frisk,Cursed Body,3,0,0,1.1,12.5,64,115,65,83,63,65,455
@@ -508,10 +508,10 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,
 384,1,3841,Rayquaza,,Dragon,Flying,Green,Air Lock,,,3,1,0,7,206.5,105,150,90,150,90,95,680
 384,2,3842,Rayquaza,Mega Rayquaza,Dragon,Flying,Green,Delta Stream,,,3,1,1,10.8,392,105,180,100,180,100,115,780
 385,1,3851,Jirachi,,Steel,Psychic,Yellow,Serene Grace,,,3,1,0,0.3,1.1,100,100,100,100,100,100,600
-386,1,3861,Deoxys,,Psychic,,Red,Pressure,,,3,1,0,1.7,60.8,50,150,50,150,50,150,600
-386,2,3862,Deoxys,,Psychic,,Red,Pressure,,,3,1,0,1.7,60.8,50,180,20,180,20,150,600
-386,3,3863,Deoxys,,Psychic,,Red,Pressure,,,3,1,0,1.7,60.8,50,70,160,70,160,90,600
-386,4,3864,Deoxys,,Psychic,,Red,Pressure,,,3,1,0,1.7,60.8,50,95,90,95,90,180,600
+386,1,3861,Deoxys,Normal Forme,Psychic,,Red,Pressure,,,3,1,0,1.7,60.8,50,150,50,150,50,150,600
+386,2,3862,Deoxys,Attack Forme,Psychic,,Red,Pressure,,,3,1,0,1.7,60.8,50,180,20,180,20,150,600
+386,3,3863,Deoxys,Defense Forme,Psychic,,Red,Pressure,,,3,1,0,1.7,60.8,50,70,160,70,160,90,600
+386,4,3864,Deoxys,Speed Forme,Psychic,,Red,Pressure,,,3,1,0,1.7,60.8,50,95,90,95,90,180,600
 387,1,3871,Turtwig,,Grass,,Green,Overgrow,,Shell Armor,4,0,0,0.4,10.2,55,68,64,45,55,31,318
 388,1,3881,Grotle,,Grass,,Green,Overgrow,,Shell Armor,4,0,0,1.1,97,75,89,85,55,65,36,405
 389,1,3891,Torterra,,Grass,Ground,Green,Overgrow,,Shell Armor,4,0,0,2.2,310,95,109,105,75,85,56,525
@@ -537,12 +537,12 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,
 409,1,4091,Rampardos,,Rock,,Blue,Mold Breaker,,Sheer Force,4,0,0,1.6,102.5,97,165,60,65,50,58,495
 410,1,4101,Shieldon,,Rock,Steel,Grey,Sturdy,,Soundproof,4,0,0,0.5,57,30,42,118,42,88,30,350
 411,1,4111,Bastiodon,,Rock,Steel,Grey,Sturdy,,Soundproof,4,0,0,1.3,149.5,60,52,168,47,138,30,495
-412,1,4121,Burmy,,Bug,,Green,Shed Skin,,Overcoat,4,0,0,0.2,3.4,40,29,45,29,45,36,224
-412,2,4122,Burmy,,Bug,,Brown,Shed Skin,,Overcoat,4,0,0,0.2,3.4,40,29,45,29,45,36,224
-412,3,4123,Burmy,,Bug,,Red,Shed Skin,,Overcoat,4,0,0,0.2,3.4,40,29,45,29,45,36,224
-413,1,4131,Wormadam,,Bug,Grass,Green,Anticipation,,Overcoat,4,0,0,0.5,6.5,60,59,85,79,105,36,424
-413,2,4132,Wormadam,,Bug,Ground,Brown,Anticipation,,Overcoat,4,0,0,0.5,6.5,60,79,105,59,85,36,424
-413,3,4133,Wormadam,,Bug,Steel,Red,Anticipation,,Overcoat,4,0,0,0.5,6.5,60,69,95,69,95,36,424
+412,1,4121,Burmy,Plant Cloak,Bug,,Green,Shed Skin,,Overcoat,4,0,0,0.2,3.4,40,29,45,29,45,36,224
+412,2,4122,Burmy,Sandy Cloak,Bug,,Brown,Shed Skin,,Overcoat,4,0,0,0.2,3.4,40,29,45,29,45,36,224
+412,3,4123,Burmy,Trash Cloak,Bug,,Red,Shed Skin,,Overcoat,4,0,0,0.2,3.4,40,29,45,29,45,36,224
+413,1,4131,Wormadam,Plant Cloak,Bug,Grass,Green,Anticipation,,Overcoat,4,0,0,0.5,6.5,60,59,85,79,105,36,424
+413,2,4132,Wormadam,Sandy Cloak,Bug,Ground,Brown,Anticipation,,Overcoat,4,0,0,0.5,6.5,60,79,105,59,85,36,424
+413,3,4133,Wormadam,Trash Cloak,Bug,Steel,Red,Anticipation,,Overcoat,4,0,0,0.5,6.5,60,69,95,69,95,36,424
 414,1,4141,Mothim,,Bug,Flying,Yellow,Swarm,,Tinted Lens,4,0,0,0.9,23.3,70,94,50,94,50,66,424
 415,1,4151,Combee,,Bug,Flying,Yellow,Honey Gather,,Hustle,4,0,0,0.3,5.5,30,30,42,30,42,70,244
 416,1,4161,Vespiquen,,Bug,Flying,Yellow,Pressure,,Unnerve,4,0,0,1.2,38.5,70,80,102,80,102,40,474
