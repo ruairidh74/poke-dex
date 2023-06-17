@@ -346,7 +346,7 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,
 248,2,2482,Tyranitar,Mega Tyranitar,Rock,Dark,Green,Sand Stream,,,2,0,1,2,255,100,164,150,95,120,71,700
 249,1,2491,Lugia,,Psychic,Flying,White,Pressure,,Multiscale,2,1,0,5.2,216,106,90,130,90,154,110,680
 250,1,2501,Ho-Oh,,Fire,Flying,Red,Pressure,,Regenerator,2,1,0,3.8,199,106,130,90,110,154,90,680
-251,1,2511,Celebi,,Psychic,Grass,Green,Natural Cure,,,2,1,0,0.6,5,100,100,100,100,100,100,600
+251,1,2511,Celebi,,Psychic,Grass,Green,Natural Cure,,,2,0,0,0.6,5,100,100,100,100,100,100,600
 252,1,2521,Treecko,,Grass,,Green,Overgrow,,Unburden,3,0,0,0.5,5,40,45,35,65,55,70,310
 253,1,2531,Grovyle,,Grass,,Green,Overgrow,,Unburden,3,0,0,0.9,21.6,50,65,45,85,65,95,405
 254,1,2541,Sceptile,,Grass,,Green,Overgrow,,Unburden,3,0,0,1.7,52.2,70,85,65,105,85,120,530
