@@ -1226,7 +1226,8 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,
 875,2,8752,Eiscue,,Ice,,Blue,Ice Face,,,8,0,0,1.4,89,75,80,70,65,50,130,470
 876,1,8761,Indeedee M,,Psychic,Normal,Purple,Inner Focus,Synchronize,Psychic Surge,8,0,0,0.9,28,60,65,55,105,95,95,475
 876,2,8762,Indeedee F,,Psychic,Normal,Purple,Own Tempo,Synchronize,Psychic Surge,8,0,0,0.9,28,70,55,65,95,105,85,475
-877,1,8771,Morpeko,,Electric,Dark,Yellow,Hunger Switch,,,8,0,0,0.3,3,58,95,58,70,58,97,436
+877,1,8771,Morpeko,Full Belly,Electric,Dark,Yellow,Hunger Switch,,,8,0,0,0.3,3,58,95,58,70,58,97,436
+877,2,8772,Morpeko,Hangry,Electric,Dark,Yellow,Hunger Switch,,,8,0,0,0.3,3,58,95,58,70,58,97,436
 878,1,8781,Cufant,,Steel,,Yellow,Sheer Force,,Heavy Metal,8,0,0,1.2,100,72,80,49,40,49,40,330
 879,1,8791,Copperajah,,Steel,,Green,Sheer Force,,Heavy Metal,8,0,0,3,650,122,130,69,80,69,30,500
 879,2,8792,Copperajah,Gigantamax,Steel,,Green,Sheer Force,,Heavy Metal,8,0,0,3,650,122,130,69,80,69,30,500
