@@ -880,9 +880,21 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,
 666,20,66709,Vivillon,Poké Ball Pattern,Bug,Flying,White,Shield Dust,Compound Eyes,Friend Guard,6,0,0,1.2,17,80,52,50,90,50,89,411
 667,1,6671,Litleo,,Fire,Normal,Brown,Rivalry,Unnerve,Moxie,6,0,0,0.6,13.5,62,50,58,73,54,72,369
 668,1,6681,Pyroar,,Fire,Normal,Brown,Rivalry,Unnerve,Moxie,6,0,0,1.5,81.5,86,68,72,109,66,106,507
-669,1,6691,Flabébé,,Fairy,,White,Flower Veil,,Symbiosis,6,0,0,0.1,0.1,44,38,39,61,79,42,303
-670,1,6701,Floette,,Fairy,,White,Flower Veil,,Symbiosis,6,0,0,0.2,0.9,54,45,47,75,98,52,371
-671,1,6711,Florges,,Fairy,,White,Flower Veil,,Symbiosis,6,0,0,1.1,10,78,65,68,112,154,75,552
+669,1,6691,Flabébé,Red Flower,Fairy,,White,Flower Veil,,Symbiosis,6,0,0,0.1,0.1,44,38,39,61,79,42,303
+669,2,6692,Flabébé,Yellow Flower,Fairy,,Yellow,Flower Veil,,Symbiosis,6,0,0,0.1,0.1,44,38,39,61,79,42,303
+669,3,6693,Flabébé,Orange Flower,Fairy,,Orange,Flower Veil,,Symbiosis,6,0,0,0.1,0.1,44,38,39,61,79,42,303
+669,4,6694,Flabébé,Blue Flower,Fairy,,Blue,Flower Veil,,Symbiosis,6,0,0,0.1,0.1,44,38,39,61,79,42,303
+669,5,6695,Flabébé,White Flower,Fairy,,White,Flower Veil,,Symbiosis,6,0,0,0.1,0.1,44,38,39,61,79,42,303
+670,1,6701,Floette,Red Flower,Fairy,,White,Flower Veil,,Symbiosis,6,0,0,0.2,0.9,54,45,47,75,98,52,371
+670,2,6702,Floette,Yellow Flower,Fairy,,Yellow,Flower Veil,,Symbiosis,6,0,0,0.2,0.9,54,45,47,75,98,52,371
+670,3,6703,Floette,Orange Flower,Fairy,,Orange,Flower Veil,,Symbiosis,6,0,0,0.2,0.9,54,45,47,75,98,52,371
+670,4,6704,Floette,Blue Flower,Fairy,,Blue,Flower Veil,,Symbiosis,6,0,0,0.2,0.9,54,45,47,75,98,52,371
+670,5,6705,Floette,White Flower,Fairy,,White,Flower Veil,,Symbiosis,6,0,0,0.2,0.9,54,45,47,75,98,52,371
+671,1,6711,Florges,Red Flower,Fairy,,White,Flower Veil,,Symbiosis,6,0,0,1.1,10,78,65,68,112,154,75,552
+671,2,6712,Florges,Yellow Flower,Fairy,,Yellow,Flower Veil,,Symbiosis,6,0,0,1.1,10,78,65,68,112,154,75,552
+671,3,6713,Florges,Orange Flower,Fairy,,Orange,Flower Veil,,Symbiosis,6,0,0,1.1,10,78,65,68,112,154,75,552
+671,4,6714,Florges,Blue Flower,Fairy,,Blue,Flower Veil,,Symbiosis,6,0,0,1.1,10,78,65,68,112,154,75,552
+671,5,6715,Florges,White Flower,Fairy,,White,Flower Veil,,Symbiosis,6,0,0,1.1,10,78,65,68,112,154,75,552
 672,1,6721,Skiddo,,Grass,,Brown,Sap Sipper,,Grass Pelt,6,0,0,0.9,31,66,65,48,62,57,52,350
 673,1,6731,Gogoat,,Grass,,Brown,Sap Sipper,,Grass Pelt,6,0,0,1.7,91,123,100,62,97,81,68,531
 674,1,6741,Pancham,,Fighting,,White,Iron Fist,Mold Breaker,Scrappy,6,0,0,0.6,8,67,82,62,46,48,43,348
