@@ -1153,7 +1153,69 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,
 866,1,8661,Mr. Rime,,Ice,Psychic,Purple,Tangled Feet,Screen Cleaner,Ice Body,8,0,0,1.5,58.2,80,85,75,110,100,70,520
 867,1,8671,Runerigus,,Ground,Ghost,Grey,Wandering Spirit,,,8,0,0,1.6,66.6,58,95,145,50,105,30,483
 868,1,8681,Milcery,,Fairy,,White,Sweet Veil,,Aroma Veil,8,0,0,0.2,0.3,45,40,40,50,61,34,270
-869,1,8691,Alcremie,,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,1,8691,Alcremie,Caramel Swirl Berry,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,2,8692,Alcremie,Caramel Swirl Clover,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,3,8693,Alcremie,Caramel Swirl Flower,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,4,8694,Alcremie,Caramel Swirl Love,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,5,8695,Alcremie,Caramel Swirl Ribbon,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,6,8696,Alcremie,Caramel Swirl Star,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,7,8697,Alcremie,Caramel Swirl Strawberry,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,8,8698,Alcremie,Lemon Cream Berry,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,9,8699,Alcremie,Lemon Cream Clover,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,10,8700,Alcremie,Lemon Cream Flower,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,11,87000,Alcremie,Lemon Cream Love,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,12,87001,Alcremie,Lemon Cream Ribbon,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,13,87002,Alcremie,Lemon Cream Star,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,14,87003,Alcremie,Lemon Cream Strawberry,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,15,87004,Alcremie,Matcha Cream Berry,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,16,87005,Alcremie,Matcha Cream Clover,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,17,87006,Alcremie,Matcha Cream Flower,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,18,87007,Alcremie,Matcha Cream Love,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,19,87008,Alcremie,Matcha Cream Ribbon,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,20,87009,Alcremie,Matcha Cream Star,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,21,87010,Alcremie,Matcha Cream Strawberry,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,22,87011,Alcremie,Mint Cream Berry,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,23,87012,Alcremie,Mint Cream Clover,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,24,87013,Alcremie,Mint Cream Flower,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,25,87014,Alcremie,Mint Cream Love,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,26,87015,Alcremie,Mint Cream Ribbon,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,27,87016,Alcremie,Mint Cream Star,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,28,87017,Alcremie,Mint Cream Strawberry,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,29,87018,Alcremie,Rainbow Swirl Berry,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,30,87019,Alcremie,Rainbow Swirl Clover,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,31,87020,Alcremie,Rainbow Swirl Flower,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,32,87021,Alcremie,Rainbow Swirl Love,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,33,87022,Alcremie,Rainbow Swirl Ribbon,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,34,87023,Alcremie,Rainbow Swirl Star,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,35,87024,Alcremie,Rainbow Swirl Strawberry,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,36,87025,Alcremie,Ruby Cream Berry,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,37,87026,Alcremie,Ruby Cream Clover,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,38,87027,Alcremie,Ruby Cream Flower,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,39,87028,Alcremie,Ruby Cream Love,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,40,87029,Alcremie,Ruby Cream Ribbon,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,41,87030,Alcremie,Ruby Cream Star,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,42,87031,Alcremie,Ruby Cream Strawberry,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,43,87032,Alcremie,Ruby Swirl Berry,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,44,87033,Alcremie,Ruby Swirl Clover,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,45,87034,Alcremie,Ruby Swirl Flower,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,46,87035,Alcremie,Ruby Swirl Love,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,47,87036,Alcremie,Ruby Swirl Ribbon,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,48,87037,Alcremie,Ruby Swirl Star,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,49,87038,Alcremie,Ruby Swirl Strawberry,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,50,87039,Alcremie,Vanilla Cream Strawberry,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,51,87040,Alcremie,Salted Cream Berry,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,52,87041,Alcremie,Salted Cream Clover,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,53,87042,Alcremie,Salted Cream Flower,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,54,87043,Alcremie,Salted Cream Love,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,55,87044,Alcremie,Salted Cream Ribbon,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,56,87045,Alcremie,Salted Cream Star,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,57,87046,Alcremie,Salted Cream Strawberry,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,58,87047,Alcremie,Vanilla Cream Berry,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,59,87048,Alcremie,Vanilla Cream Clover,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,60,87049,Alcremie,Vanilla Cream Flower,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,61,87050,Alcremie,Vanilla Cream Love,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,62,87051,Alcremie,Vanilla Cream Ribbon,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
+869,63,87052,Alcremie,Vanilla Cream Star,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
 869,64,87053,Alcremie,Gigantamax,Fairy,,Pink,Sweet Veil,,Aroma Veil,8,0,0,0.3,0.5,65,60,75,110,121,64,495
 870,1,8701,Falinks,,Fighting,,Yellow,Battle Armor,,Defiant,8,0,0,3,62,65,100,100,70,60,75,470
 871,1,8711,Pincurchin,,Electric,,Purple,Lightning Rod,,Electric Surge,8,0,0,0.3,1,48,101,95,91,85,15,435
