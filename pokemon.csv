@@ -1042,7 +1042,8 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,
 775,1,7751,Komala,,Normal,,Blue,Comatose,,,7,0,0,0.4,19.9,65,115,65,75,95,65,480
 776,1,7761,Turtonator,,Fire,Dragon,Red,Shell Armor,,,7,0,0,2,212,60,78,135,91,85,36,485
 777,1,7771,Togedemaru,,Electric,Steel,Grey,Iron Barbs,Lightning Rod,Sturdy,7,0,0,0.3,3.3,65,98,63,40,73,96,435
-778,1,7781,Mimikyu,,Ghost,Fairy,Yellow,Disguise,,,7,0,0,0.2,0.7,55,90,80,50,105,96,476
+778,1,7781,Mimikyu,Disguised,Ghost,Fairy,Yellow,Disguise,,,7,0,0,0.2,0.7,55,90,80,50,105,96,476
+778,2,7782,Mimikyu,Busted,Ghost,Fairy,Yellow,Disguise,,,7,0,0,0.2,0.7,55,90,80,50,105,96,476
 779,1,7791,Bruxish,,Water,Psychic,Pink,Dazzling,Strong Jaw,Wonder Skin,7,0,0,0.9,19,68,105,70,70,70,92,475
 780,1,7801,Drampa,,Normal,Dragon,White,Berserk,Sap Sipper,Cloud Nine,7,0,0,3,185,78,60,85,135,91,36,485
 781,1,7811,Dhelmise,,Ghost,Grass,Green,Steelworker,,,7,0,0,3.9,210,70,131,100,86,90,40,517
