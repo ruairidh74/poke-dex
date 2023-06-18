@@ -1240,10 +1240,10 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,
 885,1,8851,Dreepy,,Dragon,Ghost,Green,Clear Body,Infiltrator,Cursed Body,8,0,0,0.5,2,28,60,30,40,30,82,270
 886,1,8861,Drakloak,,Dragon,Ghost,Green,Clear Body,Infiltrator,Cursed Body,8,0,0,1.4,11,68,80,50,60,50,102,410
 887,1,8871,Dragapult,,Dragon,Ghost,Green,Clear Body,Infiltrator,Cursed Body,8,0,0,3,50,88,120,75,100,75,142,600
-888,1,8881,Zacian,Hero of Many Battles,Fairy,,Blue,Intrepid Sword,,,8,1,0,2.8,110,92,130,115,80,115,138,670
-888,2,8882,Zacian,Crowned Sword,Fairy,Steel,Blue,Intrepid Sword,,,8,1,0,2.8,355,92,170,115,80,115,148,720
-889,1,8891,Zamazenta,Hero of Many Battles,Fighting,,Red,Dauntless Shield,,,8,1,0,2.9,210,92,130,115,80,115,138,670
-889,2,8892,Zamazenta,Crowned Shield,Fighting,Steel,Red,Dauntless Shield,,,8,1,0,2.9,785,92,130,145,80,145,128,720
+888,1,8881,Zacian,Hero of Many Battles,Fairy,,Blue,Intrepid Sword,,,8,1,0,2.8,110,92,120,115,80,115,138,660
+888,2,8882,Zacian,Crowned Sword,Fairy,Steel,Blue,Intrepid Sword,,,8,1,0,2.8,355,92,150,115,80,115,148,700
+889,1,8891,Zamazenta,Hero of Many Battles,Fighting,,Red,Dauntless Shield,,,8,1,0,2.9,210,92,120,115,80,115,138,660
+889,2,8892,Zamazenta,Crowned Shield,Fighting,Steel,Red,Dauntless Shield,,,8,1,0,2.9,785,92,120,140,80,140,128,700
 890,1,8901,Eternatus,,Poison,Dragon,Purple,Pressure,,,8,1,0,2,950,140,85,95,145,95,130,690
 890,2,8902,Eternatus,Eternamax,Poison,Dragon,Purple,Pressure,,,8,1,0,2,950,140,85,95,145,95,130,690
 891,1,8911,Kubfu,,Fighting,,Grey,Inner Focus,,,8,1,0,0.6,12,60,90,60,53,50,72,385
