@@ -1019,24 +1019,24 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,
 770,1,7701,Palossand,,Ghost,Ground,Brown,Water Compaction,,Sand Veil,7,0,0,1.3,250,85,75,110,100,75,35,480
 771,1,7711,Pyukumuku,,Water,,Black,Innards Out,,Unaware,7,0,0,0.3,1.2,55,60,130,30,130,5,410
 772,1,7721,Type. Null,,Normal,,Grey,Battle Armor,,,7,1,0,1.9,120.5,95,95,95,95,95,59,534
-773,1,7731,Silvally,Type. Normal,Normal,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
-773,2,7732,Silvally,Type. Bug,Bug,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
-773,3,7733,Silvally,Type. Dark,Dark,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
-773,4,7734,Silvally,Type. Dragon,Dragon,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
-773,5,7735,Silvally,Type. Electric,Electric,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
-773,6,7736,Silvally,Type. Fairy,Fairy,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
-773,7,7737,Silvally,Type. Fighting,Fighting,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
-773,8,7738,Silvally,Type. Fire,Fire,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
-773,9,7739,Silvally,Type. Flying,Flying,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
-773,10,7740,Silvally,Type. Ghost,Ghost,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
-773,11,77400,Silvally,Type. Grass,Grass,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
-773,12,77401,Silvally,Type. Ground,Ground,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
-773,13,77402,Silvally,Type. Ice,Ice,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
-773,14,77403,Silvally,Type. Poison,Poison,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
-773,15,77404,Silvally,Type. Psychic,Psychic,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
-773,16,77405,Silvally,Type. Rock,Rock,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
-773,17,77406,Silvally,Type. Steel,Steel,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
-773,18,77407,Silvally,Type. Water,Water,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
+773,1,77301,Silvally,Type. Normal,Normal,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
+773,2,77302,Silvally,Type. Bug,Bug,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
+773,3,77303,Silvally,Type. Dark,Dark,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
+773,4,77304,Silvally,Type. Dragon,Dragon,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
+773,5,77305,Silvally,Type. Electric,Electric,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
+773,6,77306,Silvally,Type. Fairy,Fairy,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
+773,7,77307,Silvally,Type. Fighting,Fighting,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
+773,8,77308,Silvally,Type. Fire,Fire,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
+773,9,77309,Silvally,Type. Flying,Flying,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
+773,10,77310,Silvally,Type. Ghost,Ghost,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
+773,11,77311,Silvally,Type. Grass,Grass,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
+773,12,77312,Silvally,Type. Ground,Ground,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
+773,13,77313,Silvally,Type. Ice,Ice,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
+773,14,77314,Silvally,Type. Poison,Poison,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
+773,15,77315,Silvally,Type. Psychic,Psychic,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
+773,16,77316,Silvally,Type. Rock,Rock,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
+773,17,77317,Silvally,Type. Steel,Steel,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
+773,18,77318,Silvally,Type. Water,Water,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
 774,1,7741,Minior,,Rock,Flying,Brown,Shields Down,,,7,0,0,0.3,40,60,60,100,60,100,60,440
 774,2,7742,Minior,,Rock,Flying,Brown,Shields Down,,,7,0,0,0.3,0.3,60,100,60,100,60,120,500
 775,1,7751,Komala,,Normal,,Blue,Comatose,,,7,0,0,0.4,19.9,65,115,65,75,95,65,480
