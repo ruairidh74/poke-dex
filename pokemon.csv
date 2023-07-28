@@ -1258,125 +1258,125 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,COLOR,ABILITY1,ABILITY2,ABILITY HIDDEN,
 898,2,89802,Calyrex,Ice Rider,Psychic,Ice,White,As One,,,8,1,0,2.4,809.1,100,165,150,85,130,50,680
 898,3,89803,Calyrex,Shadow Rider,Psychic,Ghost,Black,As One,,,8,1,0,2.4,53.6,100,85,80,165,100,150,680
 899,1,89901,Wyrdeer,,Normal,Psychic,Grey,Intimidate,Frisk,Sap Sipper,8,0,0,1.8,95.1,103,105,72,105,75,65,525
-900,1,9001,Kleavor,,Bug,Rock,Brown,Swarm,Sheer Force,Sharpness,8,0,0,1.8,89,70,135,95,45,70,85,500
-901,1,9011,Ursaluna,,Ground,Normal,Brown,Guts,Bulletproof,Unnerve,8,0,0,2.4,290,130,140,105,45,80,50,550
-902,1,9021,Basculegion,Male,Water,Ghost,Green,Swift Swim,Adaptability,Mold Breaker,8,0,0,3,110,120,112,65,80,75,78,530
-902,2,9022,Basculegion,Female,Water,Ghost,Green,Swift Swim,Adaptability,Mold Breaker,8,0,0,3,110,120,92,65,100,75,78,530
-903,1,9031,Sneasler,,Fighting,Poison,Blue,Pressure,Unburden,Poison Touch,8,0,0,1.3,43,80,130,60,40,80,120,510
-904,1,9041,Overqwil,,Dark,Poison,Black,Poison Point,Swift Swim,Intimidate,8,0,0,2.5,60.5,85,115,95,65,65,85,510
-905,1,9051,Enamorus,Incarnate Forme,Fairy,Flying,Pink,Cute Charm,,Contrary,8,1,0,1.6,48,74,115,70,135,80,106,580
-905,2,9052,Enamorus,Therian Forme,Fairy,Flying,Pink,Overcoat,,,8,1,0,1.6,48,74,115,110,135,100,46,580
-906,1,9061,Sprigatito,,Grass,,Green,Overgrow,Protean,,9,0,0,0.4,4.1,40,61,54,45,45,65,310
-907,1,9071,Floragato,,Grass,,Green,Overgrow,Protean,,9,0,0,0.9,12.2,61,80,63,60,63,83,410
-908,1,9081,Meowscarada,,Grass,Dark,Green,Overgrow,Protean,,9,0,0,1.5,31.2,76,110,70,81,70,123,530
-909,1,9091,Fuecoco,,Fire,,Orange,Blaze,Unaware,,9,0,0,0.4,9.8,67,45,59,63,40,36,310
-910,1,9101,Crocalor,,Fire,,Orange,Blaze,Unaware,,9,0,0,1,30.7,81,55,78,90,58,49,411
-911,1,9111,Skeledirge,,Fire,Ghost,Orange,Blaze,Unaware,,9,0,0,1.6,326.5,104,75,100,110,75,66,530
-912,1,9121,Quaxly,,Water,,Blue,Torrent,Moxie,,9,0,0,0.5,6.1,55,65,45,50,45,50,310
-913,1,9131,Quaxwell,,Water,,Blue,Torrent,Moxie,,9,0,0,1.2,21.5,70,85,65,65,60,65,410
-914,1,9141,Quaquaval,,Water,Fighting,Blue,Torrent,Moxie,,9,0,0,1.8,61.9,85,120,80,85,75,85,530
-915,1,9151,Lechonk,,Normal,,Grey,Aroma Veil,Gluttony,Thick Fat,9,0,0,0.5,10.2,54,45,40,35,45,35,254
-916,1,9161,Oinkologne,,Normal,,Grey,Lingering Aroma,Gluttony,Thick Fat,9,0,0,1,120,110,100,75,59,80,65,489
-917,1,9171,Tarountula,,Bug,,White,Insomnia,Stakeout,,9,0,0,0.3,4,35,41,45,29,40,20,210
-918,1,9181,Spidops,,Bug,,Green,Insomnia,Stakeout,,9,0,0,1,16.5,60,79,92,52,86,35,404
-919,1,9191,Nymble,,Bug,,Blue,Swarm,Tinted Lens,,9,0,0,0.2,1,33,46,40,21,25,45,210
-920,1,9201,Lokix,,Bug,,Grey,Swarm,Tinted Lens,,9,0,0,1,17.5,71,102,78,52,55,92,450
-921,1,9211,Pawmi,,Electric,,Orange,Static,Natural Cure,Iron Fist,9,0,0,0.3,2.5,45,50,20,40,25,60,240
-922,1,9221,Pawmo,,Electric,Fighting,Orange,Volt Absorb,Natural Cure,Iron Fist,9,0,0,0.4,6.5,60,75,40,50,40,85,350
-923,1,9231,Pawmot,,Electric,Fighting,Orange,Volt Absorb,Natural Cure,Iron Fist,9,0,0,0.9,41,70,115,70,70,60,105,490
-924,1,9241,Tandemaus,,Normal,,White,Run Away,Pickup,Own Tempo,9,0,0,0.3,1.8,50,50,45,40,45,75,305
-925,1,9251,Maushold,Family of Three,Normal,,White,Friend Guard,Cheek Pouch,Technician,9,0,0,0.3,2.3,74,75,70,65,75,111,470
-925,2,9252,Maushold,Family of Four,Normal,,White,Friend Guard,Cheek Pouch,Technician,9,0,0,0.3,2.8,74,75,70,65,75,111,470
-926,1,9261,Fidough,,Fairy,,Yellow,Own Tempo,Klutz,,9,0,0,0.3,10.9,37,55,70,30,55,65,312
-927,1,9271,Dachsbun,,Fairy,,Red,Well-baked Body,Aroma Veil,,9,0,0,0.5,14.9,57,80,115,50,80,95,477
-928,1,9281,Smoliv,,Grass,Normal,Green,Early Bird,Harvest,,9,0,0,0.3,6.5,41,35,45,58,51,30,260
-929,1,9291,Dolliv,,Grass,Normal,Green,Early Bird,Harvest,,9,0,0,0.6,11.9,52,53,60,78,78,33,354
-930,1,9301,Arboliva,,Grass,Normal,Green,Seed Sower,Harvest,,9,0,0,1.4,48.2,78,69,90,125,109,39,510
-931,1,9311,Squawkabilly,Green Plumage,Normal,Flying,Green,Intimidate,Hustle,Guts,9,0,0,0.6,2.4,82,96,51,45,51,92,417
-931,2,9312,Squawkabilly,Blue Plumage,Normal,Flying,Blue,Intimidate,Hustle,Guts,9,0,0,0.6,2.4,82,96,51,45,51,92,417
-931,3,9313,Squawkabilly,Yellow Plumage,Normal,Flying,Yellow,Intimidate,Hustle,Sheer Force,9,0,0,0.6,2.4,82,96,51,45,51,92,417
-931,4,9314,Squawkabilly,White Plumage,Normal,Flying,White,Intimidate,Hustle,Sheer Force,9,0,0,0.6,2.4,82,96,51,45,51,92,417
-932,1,9321,Nacli,,Rock,,Brown,Purifying Salt,Sturdy,Clear Body,9,0,0,0.4,16,55,55,75,35,35,25,280
-933,1,9331,Naclstack,,Rock,,Brown,Purifying Salt,Sturdy,Clear Body,9,0,0,0.6,105,60,60,100,35,65,35,355
-934,1,9341,Garganacl,,Rock,,Brown,Purifying Salt,Sturdy,Clear Body,9,0,0,2.3,240,100,100,130,45,90,35,500
-935,1,9351,Charcadet,,Fire,,Red,Flash Fire,Flame Body,,9,0,0,0.6,10.5,40,50,40,50,40,35,255
-936,1,9361,Armarouge,,Fire,Psychic,Yellow,Flash Fire,Weak Armor,,9,0,0,1.5,85,85,60,100,125,80,75,525
-937,1,9371,Ceruledge,,Fire,Ghost,Purple,Flash Fire,Weak Armor,,9,0,0,1.6,62,75,125,80,60,100,85,525
-938,1,9381,Tadbulb,,Electric,,Yellow,Own Tempo,Static,Damp,9,0,0,0.3,0.4,61,31,41,59,35,45,272
-939,1,9391,Bellibolt,,Electric,,Blue,Electromorphosis,Static,Damp,9,0,0,1.2,113,109,64,91,103,83,45,495
-940,1,9401,Wattrel,,Electric,Flying,Grey,Wind Power,Volt Absorb,Competitive,9,0,0,0.4,3.6,40,40,35,55,40,70,280
-941,1,9411,Kilowattrel,,Electric,Flying,Grey,Wind Power,Volt Absorb,Competitive,9,0,0,1.4,38.6,70,70,60,105,60,125,490
-942,1,9421,Maschiff,,Dark,,Red,Intimidate,Run Away,Stakeout,9,0,0,0.5,16,60,78,60,40,51,51,340
-943,1,9431,Mabosstiff,,Dark,,Brown,Intimidate,Guard Dog,Stakeout,9,0,0,1.1,61,80,120,90,60,70,85,505
-944,1,9441,Shroodle,,Poison,Normal,Black,Unburden,Pickpocket,Prankster,9,0,0,0.2,0.7,40,65,35,40,35,75,290
-945,1,9451,Grafaiai,,Poison,Normal,White,Unburden,Poison Point,Prankster,9,0,0,0.7,27.2,63,95,65,80,72,110,485
-946,1,9461,Bramblin,,Grass,Ghost,Orange,Wind Rider,Infiltrator,,9,0,0,0.6,0.6,40,65,30,45,35,60,275
-947,1,9471,Brambleghast,,Grass,Ghost,Orange,Wind Rider,Infiltrator,,9,0,0,1.2,6,55,115,70,80,70,90,480
-948,1,9481,Toedscool,,Ground,Grass,Pink,Mycelium Might,,,9,0,0,0.9,33,40,40,35,50,100,70,335
-949,1,9491,Toedscruel,,Ground,Grass,Grey,Mycelium Might,,,9,0,0,1.9,58,80,70,65,80,120,100,515
-950,1,9501,Klawf,,Rock,,Orange,Anger Shell,Shell Armor,Regenerator,9,0,0,1.3,79,70,100,115,35,55,75,450
-951,1,9511,Capsakid,,Grass,,Green,Chlorophyll,Insomnia,Klutz,9,0,0,0.3,3,50,62,40,62,40,50,304
-952,1,9521,Scovillain,,Grass,Fire,Green,Chlorophyll,Insomnia,Moody,9,0,0,0.9,15,65,108,65,108,65,75,486
-953,1,9531,Rellor,,Bug,,Brown,Compound Eyes,Shed Skin,,9,0,0,0.2,1,41,50,60,31,58,30,270
-954,1,9541,Rabsca,,Bug,Psychic,Pink,Synchronize,Telepathy,,9,0,0,0.3,3.5,75,50,85,115,100,45,470
-955,1,9551,Flittle,,Psychic,,Yellow,Anticipation,Frisk,,9,0,0,0.2,1.5,30,35,30,55,30,75,255
-956,1,9561,Espathra,,Psychic,,Orange,Opportunist,Frisk,Speed Boost,9,0,0,1.9,90,95,60,60,101,60,105,481
-957,1,9571,Tinkatink,,Fairy,Steel,Pink,Mold Breaker,Own Tempo,Pickpocket,9,0,0,0.4,8.9,50,45,45,35,64,58,297
-958,1,9581,Tinkatuff,,Fairy,Steel,Pink,Mold Breaker,Own Tempo,Pickpocket,9,0,0,0.7,59.1,65,55,55,45,82,78,380
-959,1,9591,Tinkaton,,Fairy,Steel,Pink,Mold Breaker,Own Tempo,Pickpocket,9,0,0,0.7,112.8,85,75,77,70,105,94,506
-960,1,9601,Wiglett,,Water,,White,Gooey,Rattled,Sand Veil,9,0,0,1.2,1.8,10,55,25,35,25,95,245
-961,1,9611,Wugtrio,,Water,,Red,Gooey,Rattled,Sand Veil,9,0,0,1.2,5.4,35,100,50,50,70,120,425
-962,1,9621,Bombirdier,,Flying,Dark,White,Big Pecks,Keen Eye,Rocky Payload,9,0,0,1.5,42.9,70,103,85,60,85,82,485
-963,1,9631,Finizen,,Water,,Blue,Water Veil,,,9,0,0,1.3,60.2,70,45,40,45,40,75,315
-964,1,9641,Palafin,Zero,Water,,Blue,Zero to Hero,,,9,0,0,1.3,60.2,100,70,72,53,62,100,457
-964,2,9642,Palafin,Hero,Water,,Blue,Zero to Hero,,,9,0,0,1.8,97.4,100,160,97,106,87,100,650
-965,1,9651,Varoom,,Steel,Poison,White,Overcoat,Slow Start,,9,0,0,1,35,45,70,63,30,45,47,300
-966,1,9661,Revavroom,,Steel,Poison,White,Overcoat,Filter,,9,0,0,1.8,120,80,119,90,54,67,90,500
-967,1,9671,Cyclizar,,Dragon,Normal,Green,Shed Skin,Regenerator,,9,0,0,1.6,63,70,95,65,85,65,121,501
-968,1,9681,Orthworm,,Steel,,Red,Earth Eater,Sand Veil,,9,0,0,2.5,310,70,85,145,60,55,65,480
-969,1,9691,Glimmet,,Rock,Poison,White,Toxic Debris,Corrosion,,9,0,0,0.7,8,48,35,42,105,60,60,350
-970,1,9701,Glimmora,,Rock,Poison,Blue,Toxic Debris,Corrosion,,9,0,0,1.5,45,83,55,90,130,81,86,525
-971,1,9711,Greavard,,Ghost,,White,Pickup,Fluffy,,9,0,0,0.6,35,50,61,60,30,55,34,290
-972,1,9721,Houndstone,,Ghost,,White,Sand Rush,Fluffy,,9,0,0,2,15,72,101,100,50,97,68,488
-973,1,9731,Flamigo,,Flying,Fighting,Pink,Scrappy,Tangled Feet,Costar,9,0,0,1.6,37,82,115,74,75,64,90,500
-974,1,9741,Cetoddle,,Ice,,White,Thick Fat,Snow Cloak,Sheer Force,9,0,0,1.2,45,108,68,45,30,40,43,334
-975,1,9751,Cetitan,,Ice,,White,Thick Fat,Slush Rush,Sheer Force,9,0,0,4.5,700,170,113,65,45,55,73,521
-976,1,9761,Veluza,,Water,Psychic,Grey,Mold Breaker,Sharpness,,9,0,0,2.5,90,90,102,73,78,65,70,478
-977,1,9771,Dondozo,,Water,,Blue,Unaware,Oblivious,Water Veil,9,0,0,12,220,150,100,115,65,65,35,530
-978,1,9781,Tatsugiri,Curly,Dragon,Water,Orange,Commander,,Storm Drain,9,0,0,0.3,8,68,50,60,120,95,82,475
-978,2,9782,Tatsugiri,Droopy,Dragon,Water,Orange,Commander,,Storm Drain,9,0,0,0.3,8,68,50,60,120,95,82,475
-978,3,9783,Tatsugiri,Stretchy,Dragon,Water,Orange,Commander,,Storm Drain,9,0,0,0.3,8,68,50,60,120,95,82,475
-979,1,9791,Annihilape,,Fighting,Ghost,Grey,Vital Spirit,Inner Focus,Defiant,9,0,0,1.2,56,110,115,80,50,90,90,535
-980,1,9801,Clodsire,,Poison,Ground,Brown,Poison Point,Water Absorb,Unaware,9,0,0,1.8,223,130,75,60,45,100,20,430
-981,1,9811,Farigiraf,,Normal,Psychic,Orange,Cud Chew,Armor Tail,Sap Sipper,9,0,0,3.2,160,120,90,70,110,70,60,520
-982,1,9821,Dudunsparce,Two-Segment,Normal,,Yellow,Serene Grace,Run Away,Rattled,9,0,0,3.6,39.2,125,100,80,85,75,55,520
-982,2,9822,Dudunsparce,Three-Segment,Normal,,Yellow,Serene Grace,Run Away,Rattled,9,0,0,4.5,47.4,125,100,80,85,75,55,520
-983,1,9831,Kingambit,,Dark,Steel,Red,Defiant,Supreme Overload,Pressure,9,0,0,2,120,100,135,120,60,85,50,550
-984,1,9841,Great Tusk,,Ground,Fighting,Purple,Protosynthesis,,,9,0,0,2.2,320,115,131,131,53,53,87,570
-985,1,9851,Scream Tail,,Fairy,Psychic,Pink,Protosynthesis,,,9,0,0,1.2,8,115,65,99,65,115,111,570
-986,1,9861,Brute Bonnet,,Grass,Dark,White,Protosynthesis,,,9,0,0,1.2,21,111,127,99,79,99,55,570
-987,1,9871,Flutter Mane,,Ghost,Fairy,Blue,Protosynthesis,,,9,0,0,1.4,4,55,55,55,135,135,135,570
-988,1,9881,Slither Wing,,Bug,Fighting,White,Protosynthesis,,,9,0,0,3.2,92,85,135,79,85,105,81,570
-989,1,9891,Sandy Shocks,,Electric,Ground,Grey,Protosynthesis,,,9,0,0,2.3,60,85,81,97,121,85,101,570
-990,1,9901,Iron Treads,,Ground,Steel,Red,Quark Drive,,,9,0,0,0.9,240,90,112,120,72,70,106,570
-991,1,9911,Iron Bundle,,Ice,Water,Red,Quark Drive,,,9,0,0,0.6,11,56,80,114,124,60,136,570
-992,1,9921,Iron Hands,,Fighting,Electric,White,Quark Drive,,,9,0,0,1.8,380.7,154,140,108,50,68,50,570
-993,1,9931,Iron Jugulis,,Dark,Flying,Black,Quark Drive,,,9,0,0,1.3,111,94,80,86,122,80,108,570
-994,1,9941,Iron Moth,,Fire,Poison,Orange,Quark Drive,,,9,0,0,1.2,36,80,70,60,140,110,110,570
-995,1,9951,Iron Thorns,,Rock,Electric,Green,Quark Drive,,,9,0,0,1.6,303,100,134,110,70,84,72,570
-996,1,9961,Frigibax,,Dragon,Ice,Grey,Thermal Exchange,Ice Body,,9,0,0,0.5,17,65,75,45,35,45,55,320
-997,1,9971,Arctibax,,Dragon,Ice,Blue,Thermal Exchange,Ice Body,,9,0,0,0.8,30,90,95,66,45,65,62,423
-998,1,9981,Baxcalibur,,Dragon,Ice,Grey,Thermal Exchange,Ice Body,,9,0,0,2.1,210,115,145,92,75,86,87,600
-999,1,9991,Gimmighoul,Chest,Ghost,,Red,Rattled,,,9,0,0,0.5,5,45,30,70,75,70,10,300
-999,1,9992,Gimmighoul,Roaming,Ghost,,Red,Run Away,,,9,0,0,0.1,0.1,45,30,25,75,45,80,300
-1000,1,10001,Gholdengo,,Steel,Ghost,Yellow,Good as Gold,,,9,0,0,1.2,30,87,60,95,133,91,84,550
-1001,1,10011,Wo-Chien,,Dark,Grass,Brown,Tablets of Ruin,,,9,1,0,1.5,74.2,85,85,100,95,135,70,570
-1002,1,10021,Chien-Pao,,Dark,Ice,White,Sword of Ruin,,,9,1,0,1.9,152.2,80,120,80,90,65,135,570
-1003,1,10031,Ting-Lu,,Dark,Ground,Brown,Vessel of Ruin,,,9,1,0,2.7,699.7,155,110,125,55,80,45,570
-1004,1,10041,Chi-Yu,,Dark,Fire,Yellow,Beads of Ruin,,,9,1,0,0.4,4.9,55,80,80,135,120,100,570
-1005,1,10051,Roaring Moon,,Dragon,Dark,Blue,Protosynthesis,,,9,0,0,2,380,105,139,71,55,101,119,590
-1006,1,10061,Iron Valiant,,Fairy,Fighting,White,Quark Drive,,,9,0,0,1.4,35,74,130,90,120,60,116,590
-1007,1,10071,Koraidon,,Fighting,Dragon,Red,Orichalcum Pulse,,,9,1,0,2.5,303,100,135,115,85,100,135,670
-1008,1,10081,Miraidon,,Electric,Dragon,Purple,Hadron Engine,,,9,1,0,3.5,240,100,85,100,135,115,135,670
-1009,1,10091,Walking Wake,,Water,Dragon,Blue,Protosynthesis,,,9,0,0,3.5,280,99,83,91,125,83,109,590
-1010,1,10101,Iron Leaves,,Grass,Psychic,Green,Quark Drive,,,9,0,0,1.5,125,90,130,88,70,108,104,590
+900,1,90001,Kleavor,,Bug,Rock,Brown,Swarm,Sheer Force,Sharpness,8,0,0,1.8,89,70,135,95,45,70,85,500
+901,1,90101,Ursaluna,,Ground,Normal,Brown,Guts,Bulletproof,Unnerve,8,0,0,2.4,290,130,140,105,45,80,50,550
+902,1,90201,Basculegion,Male,Water,Ghost,Green,Swift Swim,Adaptability,Mold Breaker,8,0,0,3,110,120,112,65,80,75,78,530
+902,2,90202,Basculegion,Female,Water,Ghost,Green,Swift Swim,Adaptability,Mold Breaker,8,0,0,3,110,120,92,65,100,75,78,530
+903,1,90301,Sneasler,,Fighting,Poison,Blue,Pressure,Unburden,Poison Touch,8,0,0,1.3,43,80,130,60,40,80,120,510
+904,1,90401,Overqwil,,Dark,Poison,Black,Poison Point,Swift Swim,Intimidate,8,0,0,2.5,60.5,85,115,95,65,65,85,510
+905,1,90501,Enamorus,Incarnate Forme,Fairy,Flying,Pink,Cute Charm,,Contrary,8,1,0,1.6,48,74,115,70,135,80,106,580
+905,2,90502,Enamorus,Therian Forme,Fairy,Flying,Pink,Overcoat,,,8,1,0,1.6,48,74,115,110,135,100,46,580
+906,1,90601,Sprigatito,,Grass,,Green,Overgrow,Protean,,9,0,0,0.4,4.1,40,61,54,45,45,65,310
+907,1,90701,Floragato,,Grass,,Green,Overgrow,Protean,,9,0,0,0.9,12.2,61,80,63,60,63,83,410
+908,1,90801,Meowscarada,,Grass,Dark,Green,Overgrow,Protean,,9,0,0,1.5,31.2,76,110,70,81,70,123,530
+909,1,90901,Fuecoco,,Fire,,Orange,Blaze,Unaware,,9,0,0,0.4,9.8,67,45,59,63,40,36,310
+910,1,91001,Crocalor,,Fire,,Orange,Blaze,Unaware,,9,0,0,1,30.7,81,55,78,90,58,49,411
+911,1,91101,Skeledirge,,Fire,Ghost,Orange,Blaze,Unaware,,9,0,0,1.6,326.5,104,75,100,110,75,66,530
+912,1,91201,Quaxly,,Water,,Blue,Torrent,Moxie,,9,0,0,0.5,6.1,55,65,45,50,45,50,310
+913,1,91301,Quaxwell,,Water,,Blue,Torrent,Moxie,,9,0,0,1.2,21.5,70,85,65,65,60,65,410
+914,1,91401,Quaquaval,,Water,Fighting,Blue,Torrent,Moxie,,9,0,0,1.8,61.9,85,120,80,85,75,85,530
+915,1,91501,Lechonk,,Normal,,Grey,Aroma Veil,Gluttony,Thick Fat,9,0,0,0.5,10.2,54,45,40,35,45,35,254
+916,1,91601,Oinkologne,,Normal,,Grey,Lingering Aroma,Gluttony,Thick Fat,9,0,0,1,120,110,100,75,59,80,65,489
+917,1,91701,Tarountula,,Bug,,White,Insomnia,Stakeout,,9,0,0,0.3,4,35,41,45,29,40,20,210
+918,1,91801,Spidops,,Bug,,Green,Insomnia,Stakeout,,9,0,0,1,16.5,60,79,92,52,86,35,404
+919,1,91901,Nymble,,Bug,,Blue,Swarm,Tinted Lens,,9,0,0,0.2,1,33,46,40,21,25,45,210
+920,1,92001,Lokix,,Bug,,Grey,Swarm,Tinted Lens,,9,0,0,1,17.5,71,102,78,52,55,92,450
+921,1,92101,Pawmi,,Electric,,Orange,Static,Natural Cure,Iron Fist,9,0,0,0.3,2.5,45,50,20,40,25,60,240
+922,1,92201,Pawmo,,Electric,Fighting,Orange,Volt Absorb,Natural Cure,Iron Fist,9,0,0,0.4,6.5,60,75,40,50,40,85,350
+923,1,92301,Pawmot,,Electric,Fighting,Orange,Volt Absorb,Natural Cure,Iron Fist,9,0,0,0.9,41,70,115,70,70,60,105,490
+924,1,92401,Tandemaus,,Normal,,White,Run Away,Pickup,Own Tempo,9,0,0,0.3,1.8,50,50,45,40,45,75,305
+925,1,92501,Maushold,Family of Three,Normal,,White,Friend Guard,Cheek Pouch,Technician,9,0,0,0.3,2.3,74,75,70,65,75,111,470
+925,2,92502,Maushold,Family of Four,Normal,,White,Friend Guard,Cheek Pouch,Technician,9,0,0,0.3,2.8,74,75,70,65,75,111,470
+926,1,92601,Fidough,,Fairy,,Yellow,Own Tempo,Klutz,,9,0,0,0.3,10.9,37,55,70,30,55,65,312
+927,1,92701,Dachsbun,,Fairy,,Red,Well-baked Body,Aroma Veil,,9,0,0,0.5,14.9,57,80,115,50,80,95,477
+928,1,92801,Smoliv,,Grass,Normal,Green,Early Bird,Harvest,,9,0,0,0.3,6.5,41,35,45,58,51,30,260
+929,1,92901,Dolliv,,Grass,Normal,Green,Early Bird,Harvest,,9,0,0,0.6,11.9,52,53,60,78,78,33,354
+930,1,93001,Arboliva,,Grass,Normal,Green,Seed Sower,Harvest,,9,0,0,1.4,48.2,78,69,90,125,109,39,510
+931,1,93101,Squawkabilly,Green Plumage,Normal,Flying,Green,Intimidate,Hustle,Guts,9,0,0,0.6,2.4,82,96,51,45,51,92,417
+931,2,93102,Squawkabilly,Blue Plumage,Normal,Flying,Blue,Intimidate,Hustle,Guts,9,0,0,0.6,2.4,82,96,51,45,51,92,417
+931,3,93103,Squawkabilly,Yellow Plumage,Normal,Flying,Yellow,Intimidate,Hustle,Sheer Force,9,0,0,0.6,2.4,82,96,51,45,51,92,417
+931,4,93104,Squawkabilly,White Plumage,Normal,Flying,White,Intimidate,Hustle,Sheer Force,9,0,0,0.6,2.4,82,96,51,45,51,92,417
+932,1,93201,Nacli,,Rock,,Brown,Purifying Salt,Sturdy,Clear Body,9,0,0,0.4,16,55,55,75,35,35,25,280
+933,1,93301,Naclstack,,Rock,,Brown,Purifying Salt,Sturdy,Clear Body,9,0,0,0.6,105,60,60,100,35,65,35,355
+934,1,93401,Garganacl,,Rock,,Brown,Purifying Salt,Sturdy,Clear Body,9,0,0,2.3,240,100,100,130,45,90,35,500
+935,1,93501,Charcadet,,Fire,,Red,Flash Fire,Flame Body,,9,0,0,0.6,10.5,40,50,40,50,40,35,255
+936,1,93601,Armarouge,,Fire,Psychic,Yellow,Flash Fire,Weak Armor,,9,0,0,1.5,85,85,60,100,125,80,75,525
+937,1,93701,Ceruledge,,Fire,Ghost,Purple,Flash Fire,Weak Armor,,9,0,0,1.6,62,75,125,80,60,100,85,525
+938,1,93801,Tadbulb,,Electric,,Yellow,Own Tempo,Static,Damp,9,0,0,0.3,0.4,61,31,41,59,35,45,272
+939,1,93901,Bellibolt,,Electric,,Blue,Electromorphosis,Static,Damp,9,0,0,1.2,113,109,64,91,103,83,45,495
+940,1,94001,Wattrel,,Electric,Flying,Grey,Wind Power,Volt Absorb,Competitive,9,0,0,0.4,3.6,40,40,35,55,40,70,280
+941,1,94101,Kilowattrel,,Electric,Flying,Grey,Wind Power,Volt Absorb,Competitive,9,0,0,1.4,38.6,70,70,60,105,60,125,490
+942,1,94201,Maschiff,,Dark,,Red,Intimidate,Run Away,Stakeout,9,0,0,0.5,16,60,78,60,40,51,51,340
+943,1,94301,Mabosstiff,,Dark,,Brown,Intimidate,Guard Dog,Stakeout,9,0,0,1.1,61,80,120,90,60,70,85,505
+944,1,94401,Shroodle,,Poison,Normal,Black,Unburden,Pickpocket,Prankster,9,0,0,0.2,0.7,40,65,35,40,35,75,290
+945,1,94501,Grafaiai,,Poison,Normal,White,Unburden,Poison Point,Prankster,9,0,0,0.7,27.2,63,95,65,80,72,110,485
+946,1,94601,Bramblin,,Grass,Ghost,Orange,Wind Rider,Infiltrator,,9,0,0,0.6,0.6,40,65,30,45,35,60,275
+947,1,94701,Brambleghast,,Grass,Ghost,Orange,Wind Rider,Infiltrator,,9,0,0,1.2,6,55,115,70,80,70,90,480
+948,1,94801,Toedscool,,Ground,Grass,Pink,Mycelium Might,,,9,0,0,0.9,33,40,40,35,50,100,70,335
+949,1,94901,Toedscruel,,Ground,Grass,Grey,Mycelium Might,,,9,0,0,1.9,58,80,70,65,80,120,100,515
+950,1,95001,Klawf,,Rock,,Orange,Anger Shell,Shell Armor,Regenerator,9,0,0,1.3,79,70,100,115,35,55,75,450
+951,1,95101,Capsakid,,Grass,,Green,Chlorophyll,Insomnia,Klutz,9,0,0,0.3,3,50,62,40,62,40,50,304
+952,1,95201,Scovillain,,Grass,Fire,Green,Chlorophyll,Insomnia,Moody,9,0,0,0.9,15,65,108,65,108,65,75,486
+953,1,95301,Rellor,,Bug,,Brown,Compound Eyes,Shed Skin,,9,0,0,0.2,1,41,50,60,31,58,30,270
+954,1,95401,Rabsca,,Bug,Psychic,Pink,Synchronize,Telepathy,,9,0,0,0.3,3.5,75,50,85,115,100,45,470
+955,1,95501,Flittle,,Psychic,,Yellow,Anticipation,Frisk,,9,0,0,0.2,1.5,30,35,30,55,30,75,255
+956,1,95601,Espathra,,Psychic,,Orange,Opportunist,Frisk,Speed Boost,9,0,0,1.9,90,95,60,60,101,60,105,481
+957,1,95701,Tinkatink,,Fairy,Steel,Pink,Mold Breaker,Own Tempo,Pickpocket,9,0,0,0.4,8.9,50,45,45,35,64,58,297
+958,1,95801,Tinkatuff,,Fairy,Steel,Pink,Mold Breaker,Own Tempo,Pickpocket,9,0,0,0.7,59.1,65,55,55,45,82,78,380
+959,1,95901,Tinkaton,,Fairy,Steel,Pink,Mold Breaker,Own Tempo,Pickpocket,9,0,0,0.7,112.8,85,75,77,70,105,94,506
+960,1,96001,Wiglett,,Water,,White,Gooey,Rattled,Sand Veil,9,0,0,1.2,1.8,10,55,25,35,25,95,245
+961,1,96101,Wugtrio,,Water,,Red,Gooey,Rattled,Sand Veil,9,0,0,1.2,5.4,35,100,50,50,70,120,425
+962,1,96201,Bombirdier,,Flying,Dark,White,Big Pecks,Keen Eye,Rocky Payload,9,0,0,1.5,42.9,70,103,85,60,85,82,485
+963,1,96301,Finizen,,Water,,Blue,Water Veil,,,9,0,0,1.3,60.2,70,45,40,45,40,75,315
+964,1,96401,Palafin,Zero,Water,,Blue,Zero to Hero,,,9,0,0,1.3,60.2,100,70,72,53,62,100,457
+964,2,96402,Palafin,Hero,Water,,Blue,Zero to Hero,,,9,0,0,1.8,97.4,100,160,97,106,87,100,650
+965,1,96501,Varoom,,Steel,Poison,White,Overcoat,Slow Start,,9,0,0,1,35,45,70,63,30,45,47,300
+966,1,96601,Revavroom,,Steel,Poison,White,Overcoat,Filter,,9,0,0,1.8,120,80,119,90,54,67,90,500
+967,1,96701,Cyclizar,,Dragon,Normal,Green,Shed Skin,Regenerator,,9,0,0,1.6,63,70,95,65,85,65,121,501
+968,1,96801,Orthworm,,Steel,,Red,Earth Eater,Sand Veil,,9,0,0,2.5,310,70,85,145,60,55,65,480
+969,1,96901,Glimmet,,Rock,Poison,White,Toxic Debris,Corrosion,,9,0,0,0.7,8,48,35,42,105,60,60,350
+970,1,97001,Glimmora,,Rock,Poison,Blue,Toxic Debris,Corrosion,,9,0,0,1.5,45,83,55,90,130,81,86,525
+971,1,97101,Greavard,,Ghost,,White,Pickup,Fluffy,,9,0,0,0.6,35,50,61,60,30,55,34,290
+972,1,97201,Houndstone,,Ghost,,White,Sand Rush,Fluffy,,9,0,0,2,15,72,101,100,50,97,68,488
+973,1,97301,Flamigo,,Flying,Fighting,Pink,Scrappy,Tangled Feet,Costar,9,0,0,1.6,37,82,115,74,75,64,90,500
+974,1,97401,Cetoddle,,Ice,,White,Thick Fat,Snow Cloak,Sheer Force,9,0,0,1.2,45,108,68,45,30,40,43,334
+975,1,97501,Cetitan,,Ice,,White,Thick Fat,Slush Rush,Sheer Force,9,0,0,4.5,700,170,113,65,45,55,73,521
+976,1,97601,Veluza,,Water,Psychic,Grey,Mold Breaker,Sharpness,,9,0,0,2.5,90,90,102,73,78,65,70,478
+977,1,97701,Dondozo,,Water,,Blue,Unaware,Oblivious,Water Veil,9,0,0,12,220,150,100,115,65,65,35,530
+978,1,97801,Tatsugiri,Curly,Dragon,Water,Orange,Commander,,Storm Drain,9,0,0,0.3,8,68,50,60,120,95,82,475
+978,2,97802,Tatsugiri,Droopy,Dragon,Water,Orange,Commander,,Storm Drain,9,0,0,0.3,8,68,50,60,120,95,82,475
+978,3,97803,Tatsugiri,Stretchy,Dragon,Water,Orange,Commander,,Storm Drain,9,0,0,0.3,8,68,50,60,120,95,82,475
+979,1,97901,Annihilape,,Fighting,Ghost,Grey,Vital Spirit,Inner Focus,Defiant,9,0,0,1.2,56,110,115,80,50,90,90,535
+980,1,98001,Clodsire,,Poison,Ground,Brown,Poison Point,Water Absorb,Unaware,9,0,0,1.8,223,130,75,60,45,100,20,430
+981,1,98101,Farigiraf,,Normal,Psychic,Orange,Cud Chew,Armor Tail,Sap Sipper,9,0,0,3.2,160,120,90,70,110,70,60,520
+982,1,98201,Dudunsparce,Two-Segment,Normal,,Yellow,Serene Grace,Run Away,Rattled,9,0,0,3.6,39.2,125,100,80,85,75,55,520
+982,2,98202,Dudunsparce,Three-Segment,Normal,,Yellow,Serene Grace,Run Away,Rattled,9,0,0,4.5,47.4,125,100,80,85,75,55,520
+983,1,98301,Kingambit,,Dark,Steel,Red,Defiant,Supreme Overload,Pressure,9,0,0,2,120,100,135,120,60,85,50,550
+984,1,98401,Great Tusk,,Ground,Fighting,Purple,Protosynthesis,,,9,0,0,2.2,320,115,131,131,53,53,87,570
+985,1,98501,Scream Tail,,Fairy,Psychic,Pink,Protosynthesis,,,9,0,0,1.2,8,115,65,99,65,115,111,570
+986,1,98601,Brute Bonnet,,Grass,Dark,White,Protosynthesis,,,9,0,0,1.2,21,111,127,99,79,99,55,570
+987,1,98701,Flutter Mane,,Ghost,Fairy,Blue,Protosynthesis,,,9,0,0,1.4,4,55,55,55,135,135,135,570
+988,1,98801,Slither Wing,,Bug,Fighting,White,Protosynthesis,,,9,0,0,3.2,92,85,135,79,85,105,81,570
+989,1,98901,Sandy Shocks,,Electric,Ground,Grey,Protosynthesis,,,9,0,0,2.3,60,85,81,97,121,85,101,570
+990,1,99001,Iron Treads,,Ground,Steel,Red,Quark Drive,,,9,0,0,0.9,240,90,112,120,72,70,106,570
+991,1,99101,Iron Bundle,,Ice,Water,Red,Quark Drive,,,9,0,0,0.6,11,56,80,114,124,60,136,570
+992,1,99201,Iron Hands,,Fighting,Electric,White,Quark Drive,,,9,0,0,1.8,380.7,154,140,108,50,68,50,570
+993,1,99301,Iron Jugulis,,Dark,Flying,Black,Quark Drive,,,9,0,0,1.3,111,94,80,86,122,80,108,570
+994,1,99401,Iron Moth,,Fire,Poison,Orange,Quark Drive,,,9,0,0,1.2,36,80,70,60,140,110,110,570
+995,1,99501,Iron Thorns,,Rock,Electric,Green,Quark Drive,,,9,0,0,1.6,303,100,134,110,70,84,72,570
+996,1,99601,Frigibax,,Dragon,Ice,Grey,Thermal Exchange,Ice Body,,9,0,0,0.5,17,65,75,45,35,45,55,320
+997,1,99701,Arctibax,,Dragon,Ice,Blue,Thermal Exchange,Ice Body,,9,0,0,0.8,30,90,95,66,45,65,62,423
+998,1,99801,Baxcalibur,,Dragon,Ice,Grey,Thermal Exchange,Ice Body,,9,0,0,2.1,210,115,145,92,75,86,87,600
+999,1,99901,Gimmighoul,Chest,Ghost,,Red,Rattled,,,9,0,0,0.5,5,45,30,70,75,70,10,300
+999,1,99902,Gimmighoul,Roaming,Ghost,,Red,Run Away,,,9,0,0,0.1,0.1,45,30,25,75,45,80,300
+1000,1,100001,Gholdengo,,Steel,Ghost,Yellow,Good as Gold,,,9,0,0,1.2,30,87,60,95,133,91,84,550
+1001,1,100101,Wo-Chien,,Dark,Grass,Brown,Tablets of Ruin,,,9,1,0,1.5,74.2,85,85,100,95,135,70,570
+1002,1,100201,Chien-Pao,,Dark,Ice,White,Sword of Ruin,,,9,1,0,1.9,152.2,80,120,80,90,65,135,570
+1003,1,100301,Ting-Lu,,Dark,Ground,Brown,Vessel of Ruin,,,9,1,0,2.7,699.7,155,110,125,55,80,45,570
+1004,1,100401,Chi-Yu,,Dark,Fire,Yellow,Beads of Ruin,,,9,1,0,0.4,4.9,55,80,80,135,120,100,570
+1005,1,100501,Roaring Moon,,Dragon,Dark,Blue,Protosynthesis,,,9,0,0,2,380,105,139,71,55,101,119,590
+1006,1,100601,Iron Valiant,,Fairy,Fighting,White,Quark Drive,,,9,0,0,1.4,35,74,130,90,120,60,116,590
+1007,1,100701,Koraidon,,Fighting,Dragon,Red,Orichalcum Pulse,,,9,1,0,2.5,303,100,135,115,85,100,135,670
+1008,1,100801,Miraidon,,Electric,Dragon,Purple,Hadron Engine,,,9,1,0,3.5,240,100,85,100,135,115,135,670
+1009,1,100901,Walking Wake,,Water,Dragon,Blue,Protosynthesis,,,9,0,0,3.5,280,99,83,91,125,83,109,590
+1010,1,101001,Iron Leaves,,Grass,Psychic,Green,Quark Drive,,,9,0,0,1.5,125,90,130,88,70,108,104,590
