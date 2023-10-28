@@ -259,7 +259,8 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,CATEGORY,COLOR,ABILITY1,ABILITY2,ABILIT
 196,1,19601,Espeon,,Psychic,,,Purple,Synchronize,,Magic Bounce,2,0,0,0.9,26.5,65,65,60,130,95,110,525
 197,1,19701,Umbreon,,Dark,,,Black,Synchronize,,Inner Focus,2,0,0,1,27,95,65,110,60,130,65,525
 198,1,19801,Murkrow,,Dark,Flying,,Black,Insomnia,Super Luck,Prankster,2,0,0,0.5,2.1,60,85,42,85,42,91,405
-199,1,19901,Slowking,,Water,Psychic,,Pink,Oblivious,Super Luck,Regenerator,2,0,0,2,79.5,95,75,80,100,110,30,490
+199,1,19901,Slowking,Johtonian,Water,Psychic,,Pink,Oblivious,Own Tempo,Regenerator,2,0,0,2,79.5,95,75,80,100,110,30,490
+199,2,19902,Slowking,Galarian,Poison,Psychic,,Purple,Curious Medicine,Own Tempo,Regenerator,8,0,0,1.8,79.5,95,65,80,110,110,30,490
 200,1,20001,Misdreavus,,Ghost,,,Grey,Levitate,,,2,0,0,0.7,1,60,60,60,85,85,85,435
 201,1,20101,Unown,A,Psychic,,,Black,Levitate,,,2,0,0,0.5,5,48,72,48,72,48,48,336
 201,2,20102,Unown,B,Psychic,,,Black,Levitate,,,2,0,0,0.5,5,48,72,48,72,48,48,336
