@@ -1038,8 +1038,8 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,CATEGORY,COLOR,ABILITY1,ABILITY2,ABILIT
 773,16,77316,Silvally,Type. Rock,Rock,,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
 773,17,77317,Silvally,Type. Steel,Steel,,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
 773,18,77318,Silvally,Type. Water,Water,,,Grey,RKS System,,,7,1,0,2.3,100.5,95,95,95,95,95,95,570
-774,1,77401,Minior,,Rock,Flying,,Brown,Shields Down,,,7,0,0,0.3,40,60,60,100,60,100,60,440
-774,2,77402,Minior,,Rock,Flying,,Brown,Shields Down,,,7,0,0,0.3,0.3,60,100,60,100,60,120,500
+774,1,77401,Minior,Meteor,Rock,Flying,,Brown,Shields Down,,,7,0,0,0.3,40,60,60,100,60,100,60,440
+774,2,77402,Minior,Core,Rock,Flying,,Brown,Shields Down,,,7,0,0,0.3,0.3,60,100,60,100,60,120,500
 775,1,77501,Komala,,Normal,,,Blue,Comatose,,,7,0,0,0.4,19.9,65,115,65,75,95,65,480
 776,1,77601,Turtonator,,Fire,Dragon,,Red,Shell Armor,,,7,0,0,2,212,60,78,135,91,85,36,485
 777,1,77701,Togedemaru,,Electric,Steel,,Grey,Iron Barbs,Lightning Rod,Sturdy,7,0,0,0.3,3.3,65,98,63,40,73,96,435
