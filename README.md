@@ -9,6 +9,7 @@ It includes:
  - Name
  - Form
  - Types 1 & 2
+ - Category
  - Pokémon's Main Colour
  - Abilities: 1, 2 & Hidden
  - Generation Number
