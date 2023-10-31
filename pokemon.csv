@@ -1261,6 +1261,7 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,CATEGORY,COLOR,ABILITY1,ABILITY2,ABILIT
 899,1,89901,Wyrdeer,,Normal,Psychic,Big Horn,Grey,Intimidate,Frisk,Sap Sipper,8,0,0,1.8,95.1,103,105,72,105,75,65,525
 900,1,90001,Kleavor,,Bug,Rock,Axe,Brown,Swarm,Sheer Force,Sharpness,8,0,0,1.8,89,70,135,95,45,70,85,500
 901,1,90101,Ursaluna,,Ground,Normal,Peat,Brown,Guts,Bulletproof,Unnerve,8,0,0,2.4,290,130,140,105,45,80,50,550
+901,2,90102,Ursaluna,Bloodmoon,Ground,Normal,Peat,Brown,Mind's Eye,,,9,0,0,2.7,333,113,70,120,135,65,52,555
 902,1,90201,Basculegion,Male,Water,Ghost,Big Fish,Green,Swift Swim,Adaptability,Mold Breaker,8,0,0,3,110,120,112,65,80,75,78,530
 902,2,90202,Basculegion,Female,Water,Ghost,,Green,Swift Swim,Adaptability,Mold Breaker,8,0,0,3,110,120,92,65,100,75,78,530
 903,1,90301,Sneasler,,Fighting,Poison,Free Climb,Blue,Pressure,Unburden,Poison Touch,8,0,0,1.3,43,80,130,60,40,80,120,510
@@ -1381,3 +1382,17 @@ NUMBER,CODE,SERIAL,NAME,FORM,TYPE1,TYPE2,CATEGORY,COLOR,ABILITY1,ABILITY2,ABILIT
 1008,1,100801,Miraidon,,Electric,Dragon,Paradox,Purple,Hadron Engine,,,9,1,0,3.5,240,100,85,100,135,115,135,670
 1009,1,100901,Walking Wake,,Water,Dragon,Paradox,Blue,Protosynthesis,,,9,0,0,3.5,280,99,83,91,125,83,109,590
 1010,1,101001,Iron Leaves,,Grass,Psychic,Paradox,Green,Quark Drive,,,9,0,0,1.5,125,90,130,88,70,108,104,590
+1011,1,101101,Dipplin,,Grass,Dragon,Candy Apple,Red,Supersweet Syrup,Gluttony,Sticky Hold,9,0,0,0.4,4.4,80,80,110,95,80,40,485
+1012,1,101201,Poltchageist,,Grass,Ghost,Matcha,White,Hospitality,,Heatproof,9,0,0,0.1,1.1,40,45,45,74,54,50,308
+1013,1,101301,Sinistcha,,Grass,Ghost,Matcha,Green,Hospitality,,Heatproof,9,0,0,0.2,2.2,71,60,106,121,80,70,508
+1014,1,101401,Okidogi,,Poison,Fighting,Retainer,Green,Toxic Chain,,Guard Dog,9,0,0,1.8,92,88,128,115,58,86,80,555
+1015,1,101501,Munkidori,,Poison,Psychic,Retainer,Black,Toxic Chain,,Frisk,9,0,0,1,12.2,88,75,66,130,90,106,555
+1016,1,101601,Fezandipiti,,Poison,Fairy,Retainer,Black,Toxic Chain,,Technician,9,0,0,1.4,30.1,88,91,82,70,125,99,555
+1017,1,101701,Ogerpon,Teal Mask,Grass,,Mask,Green,Defiant,,,9,0,0,1.2,39.8,80,120,84,60,96,110,550
+1017,2,101702,Ogerpon,Wellspring Mask,Grass,Water,Mask,Blue,Water Absorb,,,9,0,0,1.2,39.8,80,120,84,60,96,110,550
+1017,3,101703,Ogerpon,Hearthflame Mask,Grass,Fire,Mask,Red,Mold Breaker,,,9,0,0,1.2,39.8,80,120,84,60,96,110,550
+1017,4,101704,Ogerpon,Cornerstone Mask,Grass,Rock,Mask,Grey,Sturdy,,,9,0,0,1.2,39.8,80,120,84,60,96,110,550
+1017,5,101705,Ogerpon,Teal Mask Tera,Grass,,Mask,Green,Embody Aspect,,,9,0,0,1.2,39.8,80,120,84,60,96,110,550
+1017,6,101706,Ogerpon,Wellspring Mask Tera,Water,,Mask,Blue,Embody Aspect,,,9,0,0,1.2,39.8,80,120,84,60,96,110,550
+1017,7,101707,Ogerpon,Hearthflame Mask Tera,Fire,,Mask,Red,Embody Aspect,,,9,0,0,1.2,39.8,80,120,84,60,96,110,550
+1017,8,101708,Ogerpon,Cornerstone Mask Tera,Rock,,Mask,Grey,Embody Aspect,,,9,0,0,1.2,39.8,80,120,84,60,96,110,550
